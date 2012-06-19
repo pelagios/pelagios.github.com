@@ -3,6 +3,30 @@ css/pelagios.css
 ----------------
 css/pelagios.css
 
+test/examples/lexicon/demo_table_styles.css
+----------------
+test/examples/lexicon/demo_table_styles.css
+
+test/examples/openlearn/openlearn_demo/olympics/header-public-wide-g.css
+----------------
+test/examples/openlearn/openlearn_demo/olympics/header-public-wide-g.css
+
+test/examples/openlearn/openlearn_demo/olympics/header.css
+----------------
+test/examples/openlearn/openlearn_demo/olympics/header.css
+
+test/examples/openlearn/openlearn_demo/olympics/ipad.css
+----------------
+test/examples/openlearn/openlearn_demo/olympics/ipad.css
+
+test/examples/openlearn/openlearn_demo/olympics/oucontent-js.css
+----------------
+test/examples/openlearn/openlearn_demo/olympics/oucontent-js.css
+
+test/examples/openlearn/openlearn_demo/olympics/style.css
+----------------
+test/examples/openlearn/openlearn_demo/olympics/style.css
+
 place.js
 ----------------
 app/util.js
@@ -23,6 +47,7 @@ lib/text!template/annotations.tmpl
 lib/text!template/search_results.tmpl
 lib/text!template/new_tab.tmpl
 lib/text!app/dataset.json
+lib/jquery_pagination.js
 app/pelagios.js
 lib/handlebars.js
 place.js
@@ -47,6 +72,7 @@ lib/text!template/annotations.tmpl
 lib/text!template/search_results.tmpl
 lib/text!template/new_tab.tmpl
 lib/text!app/dataset.json
+lib/jquery_pagination.js
 app/pelagios.js
 lib/handlebars.js
 search.js

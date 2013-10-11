@@ -1,0 +1,123 @@
+<html>
+  <head>
+    <title>PELAGIOS Test</title>
+    <link rel="stylesheet" href="http://pelagios.github.io/pelagios-heatmap/leaflet/leaflet.css" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+    <script type="text/javascript" src="http://pelagios.github.io/pelagios-heatmap/leaflet/leaflet.js"></script>
+    <script type="text/javascript" charset="utf-8">
+      $(function() {
+        var baseLayer = L.tileLayer('http://pelagios.dme.ait.ac.at/tilesets/imperium//{z}/{x}/{y}.png', {
+          attribution: 'Tiles: <a href="http://pelagios.dme.ait.ac.at/maps/greco-roman/about.html">Pelagios</a>, 2012; Data: NASA, OSM, Pleiades, DARMC',
+        });
+ 
+        var map = new L.Map('map', {
+          center: new L.LatLng(41.893588, 12.488022),
+          zoom: 5,
+          layers: [baseLayer],
+          minZoom: 5,
+          maxZoom: 11
+        });
+
+        L.marker([43.767521,4.693318]).addTo(map).bindPopup('Ernaginum');
+        L.marker([44.136482,12.240529]).addTo(map).bindPopup('Caesena');
+        L.marker([38.184699,-3.315366]).addTo(map).bindPopup('Ad Morum');
+        L.marker([45.193215,8.61234]).addTo(map).bindPopup('Cuttiae');
+        L.marker([41.310602,1.647899]).addTo(map).bindPopup('Antistiana');
+        L.marker([42.775577,12.524092]).addTo(map).bindPopup('Vicus Martis');
+        L.marker([43.69177,12.813782]).addTo(map).bindPopup('Forum Sempronii');
+        L.marker([44.197042,5.94352]).addTo(map).bindPopup('Segustero');
+        L.marker([42.766412,2.875397]).addTo(map).bindPopup('Combusta');
+        L.marker([39.150204,-0.43809]).addTo(map).bindPopup('Sucro');
+        L.marker([44.286236,11.883507]).addTo(map).bindPopup('Faventia');
+        L.marker([43.945944,5.874399]).addTo(map).bindPopup('Alaunium');
+        L.marker([38.94902,-2.353783]).addTo(map).bindPopup('Libisosa');
+        L.marker([45.185899,9.156562]).addTo(map).bindPopup('Ticinum');
+        L.marker([43.3945615,3.420181]).addTo(map).bindPopup('Araura/Cessero');
+        L.marker([45.138348,7.048364]).addTo(map).bindPopup('Segusio');
+        L.marker([43.64232,3.896373]).addTo(map).bindPopup('Sextantio');
+        L.marker([42.519925,12.515737]).addTo(map).bindPopup('Nequinum/Narnia');
+        L.marker([40.811004,0.520955]).addTo(map).bindPopup('Dertosa/Hibera Iulia Ilercavonia');
+        L.marker([44.804499,10.332548]).addTo(map).bindPopup('Parma');
+        L.marker([39.470371,-0.376813]).addTo(map).bindPopup('Valentia');
+        L.marker([37.910599,-4.714118]).addTo(map).bindPopup('Ad Decumum');
+        L.marker([42.93488,12.609394]).addTo(map).bindPopup('Mevania');
+        L.marker([37.471001,-5.642257]).addTo(map).bindPopup('Carmo');
+        L.marker([41.987346,2.826608]).addTo(map).bindPopup('Gerunda');
+        L.marker([44.221277,12.042702]).addTo(map).bindPopup('Forum Livii');
+        L.marker([44.443622,11.470575]).addTo(map).bindPopup('Claterna');
+        L.marker([43.677616,4.630799]).addTo(map).bindPopup('Theline/Col. Arelate/Constantina');
+        L.marker([44.545037,6.278222]).addTo(map).bindPopup('Caturigomagus');
+        L.marker([45.193171,8.297388]).addTo(map).bindPopup('Rigomagus');
+        L.marker([38.988847,-0.515639]).addTo(map).bindPopup('Saetabis');
+        L.marker([42.709811,2.946575]).addTo(map).bindPopup('Col. Ruscino');
+        L.marker([38.004981,-3.919521]).addTo(map).bindPopup('Ad Novlas');
+        L.marker([41.203989,1.514919]).addTo(map).bindPopup('Palfuriana');
+        L.marker([41.746451,2.635453]).addTo(map).bindPopup('Seterrae');
+        L.marker([38.037913,-3.624424]).addTo(map).bindPopup('Castulo');
+        L.marker([38.962484,-2.008396]).addTo(map).bindPopup('Parietinae');
+        L.marker([43.844902,13.016921]).addTo(map).bindPopup('Fanum Fortunae');
+        L.marker([41.114588,1.258617]).addTo(map).bindPopup('Col. Tarraco');
+        L.marker([41.8917,12.4862]).addTo(map).bindPopup('Roma');
+        L.marker([37.382668,-5.996293]).addTo(map).bindPopup('Hispalis/Col. Romula');
+        L.marker([40.231686,0.073556]).addTo(map).bindPopup('Ildum');
+        L.marker([36.788002,-6.172572]).addTo(map).bindPopup('(H)Asta/Col. Hasta Regia/Ligystine?');
+        L.marker([43.715821,4.149669]).addTo(map).bindPopup('Ambrussum');
+        L.marker([43.876571,5.393684]).addTo(map).bindPopup('Apta Iulia');
+        L.marker([42.066067,2.910473]).addTo(map).bindPopup('Cinniana');
+        L.marker([45.158683,9.52751]).addTo(map).bindPopup('Lambrum');
+        L.marker([38.026033,-4.381896]).addTo(map).bindPopup('Epora');
+        L.marker([37.540932,-5.079949]).addTo(map).bindPopup('Astigi/Col. Augusta Firma');
+        L.marker([41.0,2.0]).addTo(map).bindPopup('(Ad) Fines');
+        L.marker([43.811154,4.635555]).addTo(map).bindPopup('Ugernum');
+        L.marker([44.931266,6.723215]).addTo(map).bindPopup('Druantium/*Alpis Cottia/Summae Alpes');
+        L.marker([44.698137,10.630721]).addTo(map).bindPopup('Regium Lepidum');
+        L.marker([43.1836165,3.004203]).addTo(map).bindPopup('Col. Narbo Martius');
+        L.marker([44.49452,11.349271]).addTo(map).bindPopup('Felsina/Bononia');
+        L.marker([37.283163,-5.922275]).addTo(map).bindPopup('Orippo');
+        L.marker([42.468926,2.866662]).addTo(map).bindPopup('Ad Pyrenaeum/Summus Pyrenaeus');
+        L.marker([45.191112,7.969391]).addTo(map).bindPopup('Quadrata');
+        L.marker([43.912081,12.91577]).addTo(map).bindPopup('Pisaurum');
+        L.marker([44.559876,6.075897]).addTo(map).bindPopup('Vappincum');
+        L.marker([45.052419,9.698743]).addTo(map).bindPopup('Placentia');
+        L.marker([43.296882,12.759704]).addTo(map).bindPopup('Helvillum');
+        L.marker([44.747573,6.57861]).addTo(map).bindPopup('Rama');
+        L.marker([42.275356,2.966727]).addTo(map).bindPopup('Iuncaria');
+        L.marker([40.917425,0.813909]).addTo(map).bindPopup('Sub Saltu');
+        L.marker([43.773471,4.832867]).addTo(map).bindPopup('Glanum');
+        L.marker([36.990065,-5.82933]).addTo(map).bindPopup('U(r)gia');
+        L.marker([39.680031,-0.278608]).addTo(map).bindPopup('Saguntum/Arse');
+        L.marker([44.647057,10.925223]).addTo(map).bindPopup('Mutina');
+        L.marker([38.547361,-2.92748]).addTo(map).bindPopup('Mariana');
+        L.marker([38.918645,-1.722773]).addTo(map).bindPopup('Saltigi');
+        L.marker([43.3416765,3.217941]).addTo(map).bindPopup('Col. Baeterrae');
+        L.marker([41.548425,2.107509]).addTo(map).bindPopup('Arrago(na)');
+        L.marker([45.070198,7.686563]).addTo(map).bindPopup('Augusta Taurinorum');
+        L.marker([38.342214,-3.103507]).addTo(map).bindPopup('Ad Duo Solaria');
+        L.marker([43.546796,12.648528]).addTo(map).bindPopup('Cales');
+        L.marker([44.385921,5.943974]).addTo(map).bindPopup('Alabonte');
+        L.marker([43.829885,5.034166]).addTo(map).bindPopup('Cabellio');
+        L.marker([43.834875,4.360278]).addTo(map).bindPopup('Nemausus');
+        L.marker([45.116103,7.344923]).addTo(map).bindPopup('Ocelum');
+        L.marker([44.927187,9.910786]).addTo(map).bindPopup('Florenti(ol)a');
+        L.marker([38.692191,-2.694845]).addTo(map).bindPopup('Mentesa');
+        L.marker([42.411879,12.466942]).addTo(map).bindPopup('Ocriculum');
+        L.marker([44.896886,6.633951]).addTo(map).bindPopup('Brigantio');
+        L.marker([45.122041,8.79735]).addTo(map).bindPopup('Laumellum');
+        L.marker([37.884683,-4.779171]).addTo(map).bindPopup('Corduba/Col. Patricia');
+        L.marker([38.746037,-1.230685]).addTo(map).bindPopup('Ad Palem?');
+        L.marker([43.850093,5.565915]).addTo(map).bindPopup('Catuiacia');
+        L.marker([36.0,-6.0]).addTo(map).bindPopup('Ad Portum/Gaditanus Portus');
+        L.marker([44.0589565,12.5631945]).addTo(map).bindPopup('Ariminum');
+        L.marker([41.846176,2.752102]).addTo(map).bindPopup('Aquae Voconiae');
+        L.marker([40.418701,0.423109]).addTo(map).bindPopup('Indibilis');
+        L.marker([44.353995,11.707535]).addTo(map).bindPopup('Forum Cornelii');
+        L.marker([37.870867,-4.184754]).addTo(map).bindPopup('Obulco');
+        L.marker([38.074265,-4.186553]).addTo(map).bindPopup('(S)Ucia');
+        L.marker([39.967525,-0.120125]).addTo(map).bindPopup('Ad Novlas');
+      });
+    </script>
+  </head>
+  <body>
+  <div id="map" style="width:100%px; height:100%;"></div>
+  </body>
+</html>

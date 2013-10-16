@@ -22,7 +22,9 @@
           $.each(data, function(index, linestring) {
             L.geoJson(linestring, {
               style: {
-                color: color
+                color: color,
+                opacity: 0.8,
+                weight: 8
               }
             }).addTo(layer);
           });
@@ -80,8 +82,54 @@
         }).addTo(map);
       });
     </script>
+    <style>
+      #map {
+        width:100%px;
+        height:100%;
+      }
+      
+      #meta {
+        position:absolute;
+        background-color:#fff;
+        padding:20px;
+        bottom:20px;
+        left:20px;
+        font-family:Arial, Sans, Verdana;
+        font-size:12px;
+        color:#000;
+        max-width:40%;
+      }
+      
+      #meta h1 {
+        font-size:14px;
+        padding:0;
+        margin:0;
+      }
+      
+      .thumb {
+        float:right;
+        padding:10px;
+      }
+      
+      ul, li {
+        padding-top:0;
+        padding-bottom:0;
+        margin-top:0;
+        margin-bottom:0;
+      }
+      
+      .citations li {
+        font-size:11px;
+        font-style:italic;
+      }
+    </style>
   </head>
   <body>
-  <div id="map" style="width:100%px; height:100%;"></div>
+    <div id="map" style=""></div>
+    <div id="meta">
+      <h1>Vicarello Beakers</h1>
+      <img class="thumb" src="http://farm8.staticflickr.com/7299/10171503914_ab235b32a7_t_d.jpg">      <p>The Vicarello Beakers were four vessels completely cylindrical, made of silver with a height of 95-153 mm. with its surface engraved with the route between Gades and Rome. They have traditionally been identified as miniature replicas of a milestone probably erected in Gades as the Miliarium Aureum had been placed in Rome.</p>
+
+    </div>
   </body>
 </html>

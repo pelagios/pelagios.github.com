@@ -17,8 +17,18 @@
           minZoom: 5,
           maxZoom: 11
         });
+
+        var renderPath = function(data, color, layer) {
+          $.each(data, function(index, linestring) {
+            L.geoJson(linestring, {
+              style: {
+                color: color
+              }
+            }).addTo(layer);
+          });
+        }
         
-        var renderJSON = function(data, color, layer) {
+        var renderPlaces = function(data, color, layer) {
           $.each(data, function(index, annotation) {
             if (annotation.place.geometry) {
               L.geoJson(annotation.place.geometry, {
@@ -41,24 +51,32 @@
             }
           });
         };
-        
-        var layer01 = L.layerGroup().addTo(map);
-        $.getJSON('Vicarello-Beaker-1.json', function(data) { renderJSON(data, '#0000ff', layer01); });
-        
-        var layer02 = L.layerGroup();
-        $.getJSON('Vicarello-Beaker-2.json', function(data) { renderJSON(data, '#ff0000', layer02); });
-        
-        var layer03 = L.layerGroup();
-        $.getJSON('Vicarello-Beaker-3.json', function(data) { renderJSON(data, '#009900', layer03); });
-        
-        var layer04 = L.layerGroup();
-        $.getJSON('Vicarello-Beaker-4.json', function(data) { renderJSON(data, 'orange', layer04); });        
-        
+
+        var pathLayer0 = L.layerGroup().addTo(map);
+        var placeLayer0 = L.layerGroup().addTo(map);
+        $.getJSON('Vicarello-Beaker-1.json', function(data) {            renderPath(data.path, '#0000ff', pathLayer0);            renderPlaces(data.places, '#0000ff', placeLayer0);          });
+
+        var pathLayer1 = L.layerGroup();
+        var placeLayer1 = L.layerGroup();
+        $.getJSON('Vicarello-Beaker-2.json', function(data) {            renderPath(data.path, '#ff0000', pathLayer1);            renderPlaces(data.places, '#ff0000', placeLayer1);          });
+
+        var pathLayer2 = L.layerGroup();
+        var placeLayer2 = L.layerGroup();
+        $.getJSON('Vicarello-Beaker-3.json', function(data) {            renderPath(data.path, '#009900', pathLayer2);            renderPlaces(data.places, '#009900', placeLayer2);          });
+
+        var pathLayer3 = L.layerGroup();
+        var placeLayer3 = L.layerGroup();
+        $.getJSON('Vicarello-Beaker-4.json', function(data) {            renderPath(data.path, 'orange', pathLayer3);            renderPlaces(data.places, 'orange', placeLayer3);          });
+
         L.control.layers({}, {
-          "Vicarello Beaker I": layer01,
-          "Vicarello Beaker II": layer02,
-          "Vicarello Beaker III": layer03,
-          "Vicarello Beaker IV": layer04
+          "Vicarello Beaker 1 (Path)": pathLayer0,
+          "Vicarello Beaker 1 (Places)": placeLayer0,
+          "Vicarello Beaker 2 (Path)": pathLayer1,
+          "Vicarello Beaker 2 (Places)": placeLayer1,
+          "Vicarello Beaker 3 (Path)": pathLayer2,
+          "Vicarello Beaker 3 (Places)": placeLayer2,
+          "Vicarello Beaker 4 (Path)": pathLayer3,
+          "Vicarello Beaker 4 (Places)": placeLayer3
         }).addTo(map);
       });
     </script>

@@ -69,19 +69,7 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[1.258617,41.114588],[3.004203,43.1836165]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
     "coordinates":[[-5.642257,37.471001],[-5.348392,37.462227]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-6.292459,36.529726],[12.4862,41.8917]]
   }
 },{
   "type":"Feature",
@@ -124,12 +112,6 @@
   "geometry":{
     "type":"LineString",
     "coordinates":[[1.647899,41.310602],[1.5,41.5]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[1.258617,41.114588],[-4.714118,37.910599]]
   }
 },{
   "type":"Feature",
@@ -184,12 +166,6 @@
   "geometry":{
     "type":"LineString",
     "coordinates":[[12.498463,42.147199],[12.4862,41.8917]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-4.779171,37.884683],[-5.642257,37.471001]]
   }
 },{
   "type":"Feature",
@@ -303,19 +279,7 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[-4.779171,37.884683],[1.258617,41.114588]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
     "coordinates":[[0.520955,40.811004],[0.813909,40.917425]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[7.686563,45.070198],[3.217941,43.3416765]]
   }
 },{
   "type":"Feature",
@@ -411,12 +375,6 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[3.004203,43.1836165],[7.686563,45.070198]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
     "coordinates":[[9.156562,45.185899],[9.52751,45.158683]]
   }
 },{
@@ -471,12 +429,6 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[-5.996293,37.382668],[-4.779171,37.884683]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
     "coordinates":[[6.75,44.75],[7.344923,45.116103]]
   }
 },{
@@ -507,19 +459,7 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[3.004203,43.1836165],[1.514919,41.203989]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
     "coordinates":[[12.240529,44.136482],[12.5631945,44.0589565]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[12.4862,41.8917],[-6.5,36.5]]
   }
 },{
   "type":"Feature",
@@ -604,12 +544,6 @@
   "geometry":{
     "type":"LineString",
     "coordinates":[[10.630721,44.698137],[10.925223,44.647057]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[4.693318,43.767521],[4.832867,43.773471]]
   }
 },{
   "type":"Feature",
@@ -2642,6 +2576,7 @@
     }
   }
 },{
+  "transcription":"Findspot: Vicarello",
   "place":{
     "source":"http://pleiades.stoa.org/places/413023#this",
     "title":"Aquae Apollinares Novae",

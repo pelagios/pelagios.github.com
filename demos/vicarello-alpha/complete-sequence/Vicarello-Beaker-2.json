@@ -3,541 +3,7 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[3.896373,43.64232],[4.149669,43.715821]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[10.630721,44.698137],[10.925223,44.647057]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-2.92748,38.547361],[-2.694845,38.692191]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[12.042702,44.221277],[12.240529,44.136482]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[2.635453,41.746451],[2.752102,41.846176]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-0.43809,39.150204],[-0.376813,39.470371]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-4.186553,38.074265],[-3.919521,38.004981]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-4.779171,37.884683],[-4.714118,37.910599]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[0.423109,40.418701],[0.520955,40.811004]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-2.008396,38.962484],[-1.722773,38.918645]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[6.57861,44.747573],[6.633951,44.896886]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-3.624424,38.037913],[-3.315366,38.184699]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-4.714118,37.910599],[-4.403644,38.02053]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[12.498463,42.147199],[12.4862,41.8917]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[6.793592,44.952968],[7.048364,45.138348]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[3.692307,43.515715],[3.896373,43.64232]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[4.693318,43.767521],[4.832867,43.773471]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[11.883507,44.286236],[12.042702,44.221277]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-5.348392,37.462227],[-5.079949,37.540932]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[5.25,43.75],[5.393684,43.876571]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[11.349271,44.49452],[11.470575,44.443622]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[3.004203,43.1836165],[3.217941,43.3416765]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[7.969391,45.191112],[8.297388,45.193171]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[2.826608,41.987346],[2.910473,42.066067]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[1.647899,41.310602],[1.5,41.5]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[6.075897,44.559876],[6.278222,44.545037]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[12.5631945,44.0589565],[12.91577,43.912081]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[0.073556,40.231686],[0.423109,40.418701]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[5.874399,43.945944],[5.94352,44.197042]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[9.52751,45.158683],[9.698743,45.052419]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-0.278608,39.680031],[-0.138097,39.959582]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[3.217941,43.3416765],[3.420181,43.3945615]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[12.813782,43.69177],[12.648528,43.546796]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[4.360278,43.834875],[4.635555,43.811154]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[12.524092,42.775577],[12.515737,42.519925]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[2.866662,42.468926],[2.946575,42.709811]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-6.172572,36.788002],[-5.82933,36.990065]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[0.700237,40.804813],[0.813909,40.917425]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[2.5,41.5],[2.635453,41.746451]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-5.642257,37.471001],[-5.348392,37.462227]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-3.103507,38.342214],[-2.92748,38.547361]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[10.332548,44.804499],[10.630721,44.698137]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-1.230685,38.746037],[-0.92493,38.781093]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-4.403644,38.02053],[-4.186553,38.074265]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-5.996293,37.382668],[-5.642257,37.471001]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-0.515639,38.988847],[-0.43809,39.150204]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-4.5,37.5],[-4.779171,37.884683]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[7.686563,45.070198],[7.969391,45.191112]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-2.353783,38.94902],[-2.008396,38.962484]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[8.61234,45.193215],[8.79735,45.122041]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[7.048364,45.138348],[7.344923,45.116103]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[5.565915,43.850093],[5.874399,43.945944]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[13.016921,43.844902],[12.813782,43.69177]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[6.496364,44.565627],[6.57861,44.747573]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[12.609394,42.93488],[12.524092,42.775577]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[7.344923,45.116103],[7.686563,45.070198]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[9.910786,44.927187],[10.332548,44.804499]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[13.396908,43.629616],[12.759704,43.296882]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[4.630799,43.677616],[4.693318,43.767521]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[12.466942,42.411879],[12.498463,42.147199]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[6.723215,44.931266],[6.793592,44.952968]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[11.707535,44.353995],[11.883507,44.286236]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-5.922275,37.283163],[-5.996293,37.382668]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[2.107509,41.548425],[2.5,41.5]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[10.925223,44.647057],[11.349271,44.49452]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[5.943974,44.385921],[6.075897,44.559876]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[5.034166,43.829885],[5.25,43.75]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[12.240529,44.136482],[12.5631945,44.0589565]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[1.514919,41.203989],[1.647899,41.310602]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[2.875397,42.766412],[3.004203,43.1836165]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-0.92493,38.781093],[-0.515639,38.988847]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[4.149669,43.715821],[4.360278,43.834875]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[2.752102,41.846176],[2.826608,41.987346]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[2.966727,42.275356],[2.866662,42.468926]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[9.156562,45.185899],[9.52751,45.158683]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-3.919521,38.004981],[-3.624424,38.037913]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[0.520955,40.811004],[0.700237,40.804813]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-0.376813,39.470371],[-0.278608,39.680031]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-6.5,36.5],[-6.172572,36.788002]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-0.138097,39.959582],[0.073556,40.231686]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-3.315366,38.184699],[-3.103507,38.342214]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-1.722773,38.918645],[-1.230685,38.746037]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[1.258617,41.114588],[1.514919,41.203989]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[5.94352,44.197042],[5.943974,44.385921]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[4.832867,43.773471],[5.034166,43.829885]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-2.694845,38.692191],[-2.353783,38.94902]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-5.079949,37.540932],[-4.5,37.5]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[8.297388,45.193171],[8.61234,45.193215]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[12.91577,43.912081],[13.016921,43.844902]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[5.393684,43.876571],[5.565915,43.850093]]
+    "coordinates":[[0.520955,40.811004],[0.813909,40.917425]]
   }
 },{
   "type":"Feature",
@@ -555,25 +21,25 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[6.278222,44.545037],[6.496364,44.565627]]
+    "coordinates":[[-0.376813,39.470371],[-0.278608,39.680031]]
   }
 },{
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[2.910473,42.066067],[2.966727,42.275356]]
+    "coordinates":[[12.91577,43.912081],[13.016921,43.844902]]
   }
 },{
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[-5.82933,36.990065],[-5.922275,37.283163]]
+    "coordinates":[[-3.919521,38.004981],[-3.5,38.5]]
   }
 },{
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[9.698743,45.052419],[9.910786,44.927187]]
+    "coordinates":[[2.966727,42.275356],[2.866662,42.468926]]
   }
 },{
   "type":"Feature",
@@ -585,31 +51,85 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[12.515737,42.519925],[12.466942,42.411879]]
+    "coordinates":[[-1.722773,38.918645],[-1.230685,38.746037]]
   }
 },{
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[12.648528,43.546796],[13.396908,43.629616]]
+    "coordinates":[[-6.5,36.5],[-6.172572,36.788002]]
   }
 },{
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[0.813909,40.917425],[1.258617,41.114588]]
+    "coordinates":[[-3.315366,38.184699],[-3.103507,38.342214]]
   }
 },{
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[4.635555,43.811154],[4.630799,43.677616]]
+    "coordinates":[[5.94352,44.197042],[5.943974,44.385921]]
   }
 },{
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[3.420181,43.3945615],[3.692307,43.515715]]
+    "coordinates":[[3.896373,43.64232],[4.149669,43.715821]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[4.832867,43.773471],[5.034166,43.829885]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.498463,42.147199],[12.4862,41.8917]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-5.079949,37.540932],[-4.5,37.5]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[8.297388,45.193171],[8.61234,45.193215]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.910473,42.066067],[2.966727,42.275356]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.5631945,44.0589565],[12.91577,43.912081]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[11.349271,44.49452],[11.470575,44.443622]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[6.278222,44.545037],[6.496364,44.565627]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[5.393684,43.876571],[5.565915,43.850093]]
   }
 },{
   "type":"Feature",
@@ -622,6 +142,486 @@
   "geometry":{
     "type":"LineString",
     "coordinates":[[2.946575,42.709811],[2.875397,42.766412]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.4862,41.8917],[-6.5,36.5]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[4.635555,43.811154],[4.693318,43.767521]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[9.52751,45.158683],[9.698743,45.052419]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-0.120125,39.967525],[0.073556,40.231686]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[3.420181,43.3945615],[3.692307,43.515715]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.813782,43.69177],[12.648528,43.546796]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[0.813909,40.917425],[1.258617,41.114588]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.524092,42.775577],[12.515737,42.519925]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[11.883507,44.286236],[12.042702,44.221277]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-2.92748,38.547361],[-2.694845,38.692191]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[10.332548,44.804499],[10.630721,44.698137]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-0.5,38.5],[-0.515639,38.988847]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.635453,41.746451],[2.752102,41.846176]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-5.348392,37.462227],[-5.079949,37.540932]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-5.82933,36.990065],[-5.922275,37.283163]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[7.969391,45.191112],[8.297388,45.193171]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-4.186553,38.074265],[-3.919521,38.004981]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-4.779171,37.884683],[-4.714118,37.910599]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-2.008396,38.962484],[-1.722773,38.918645]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-0.43809,39.150204],[-0.376813,39.470371]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[0.423109,40.418701],[0.520955,40.811004]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[6.57861,44.747573],[6.633951,44.896886]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[5.874399,43.945944],[5.94352,44.197042]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[4.360278,43.834875],[4.635555,43.811154]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-4.714118,37.910599],[-4.403644,38.02053]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[3.692307,43.515715],[3.896373,43.64232]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[4.693318,43.767521],[4.832867,43.773471]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.466942,42.411879],[12.498463,42.147199]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[13.396908,43.629616],[12.759704,43.296882]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[11.707535,44.353995],[11.883507,44.286236]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[6.793592,44.952968],[7.048364,45.138348]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.5,41.5],[2.635453,41.746451]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[6.075897,44.559876],[6.278222,44.545037]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-5.996293,37.382668],[-5.642257,37.471001]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[0.073556,40.231686],[0.423109,40.418701]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.826608,41.987346],[2.910473,42.066067]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[5.25,43.75],[5.393684,43.876571]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[10.925223,44.647057],[11.349271,44.49452]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[1.647899,41.310602],[1.5,41.5]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[3.004203,43.1836165],[3.217941,43.3416765]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.240529,44.136482],[12.5631945,44.0589565]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-0.515639,38.988847],[-0.43809,39.150204]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.609394,42.93488],[12.524092,42.775577]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[3.217941,43.3416765],[3.420181,43.3945615]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[13.016921,43.844902],[12.813782,43.69177]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-3.5,38.5],[-3.315366,38.184699]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[9.156562,45.185899],[9.52751,45.158683]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-0.278608,39.680031],[-0.120125,39.967525]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.866662,42.468926],[2.946575,42.709811]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-6.292459,36.529726],[12.4862,41.8917]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-3.103507,38.342214],[-2.92748,38.547361]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-6.172572,36.788002],[-5.82933,36.990065]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[9.910786,44.927187],[10.332548,44.804499]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-1.230685,38.746037],[-0.5,38.5]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-4.403644,38.02053],[-4.186553,38.074265]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-5.642257,37.471001],[-5.348392,37.462227]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-4.5,37.5],[-4.779171,37.884683]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[5.943974,44.385921],[6.075897,44.559876]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[7.686563,45.070198],[7.969391,45.191112]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-2.353783,38.94902],[-2.008396,38.962484]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[7.048364,45.138348],[7.344923,45.116103]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[5.565915,43.850093],[5.874399,43.945944]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[6.496364,44.565627],[6.57861,44.747573]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[8.61234,45.193215],[8.79735,45.122041]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[7.344923,45.116103],[7.686563,45.070198]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.107509,41.548425],[2.5,41.5]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[9.698743,45.052419],[9.910786,44.927187]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[6.723215,44.931266],[6.793592,44.952968]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.648528,43.546796],[13.396908,43.629616]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[1.258617,41.114588],[1.514919,41.203989]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.515737,42.519925],[12.466942,42.411879]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.752102,41.846176],[2.826608,41.987346]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[10.630721,44.698137],[10.925223,44.647057]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[4.149669,43.715821],[4.360278,43.834875]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-2.694845,38.692191],[-2.353783,38.94902]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.875397,42.766412],[3.004203,43.1836165]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.042702,44.221277],[12.240529,44.136482]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[1.514919,41.203989],[1.647899,41.310602]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[5.034166,43.829885],[5.25,43.75]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-5.922275,37.283163],[-5.996293,37.382668]]
   }
 }],
 "places":
@@ -660,7 +660,7 @@
     }
   }
 },{
-  "transcription":"LAVMELLO",
+  "transcription":"LAVMELLVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/383690#this",
     "title":"Laumellum",
@@ -677,7 +677,7 @@
     }
   }
 },{
-  "transcription":"TICINO",
+  "transcription":"TICINVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/383798#this",
     "title":"Ticinum",
@@ -762,7 +762,7 @@
     }
   }
 },{
-  "transcription":"LEPIDO REGIO",
+  "transcription":"REGIO LEPIDI",
   "place":{
     "source":"http://pleiades.stoa.org/places/383755#this",
     "title":"Regium Lepidum",
@@ -983,7 +983,7 @@
     }
   }
 },{
-  "transcription":"AD CALE",
+  "transcription":"CALE",
   "place":{
     "source":"http://pleiades.stoa.org/places/413058#this",
     "title":"Cales",
@@ -1000,7 +1000,7 @@
     }
   }
 },{
-  "transcription":"HESIM",
+  "transcription":"HAESIM",
   "place":{
     "source":"http://pleiades.stoa.org/places/412989#this",
     "title":"Ad Aesim",
@@ -1034,7 +1034,7 @@
     }
   }
 },{
-  "transcription":"HELVILLV",
+  "transcription":"HELVILIVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/413167#this",
     "title":"Helvillum",
@@ -1058,7 +1058,7 @@
     "names":["Nuceria","near Terina?"]
   }
 },{
-  "transcription":"MAEVANIA",
+  "transcription":"MEVANIA",
   "place":{
     "source":"http://pleiades.stoa.org/places/413200#this",
     "title":"Mevania",
@@ -1109,7 +1109,7 @@
     }
   }
 },{
-  "transcription":"OCRICLO",
+  "transcription":"OCRICVLO",
   "place":{
     "source":"http://pleiades.stoa.org/places/413231#this",
     "title":"Ocriculum",
@@ -1126,7 +1126,7 @@
     }
   }
 },{
-  "transcription":"AD XX",
+  "transcription":"AD VICESVMO",
   "place":{
     "source":"http://pleiades.stoa.org/places/412998#this",
     "title":"Ad Vicesimum",
@@ -1194,7 +1194,7 @@
     }
   }
 },{
-  "transcription":"AD X",
+  "transcription":"AD DECVMO",
   "place":{
     "source":"http://pleiades.stoa.org/places/255952#this",
     "title":"Ad Decumum",
@@ -1279,18 +1279,18 @@
     }
   }
 },{
-  "transcription":"CASTVLONE",
+  "transcription":"AD ARAS",
   "place":{
-    "source":"http://pleiades.stoa.org/places/265855#this",
-    "title":"Castulo",
-    "names":["Caesarii Iuvenales","Castulo","Cortijos de S. Eufemia y de Yangues","4.4 miles S Linares"],
+    "source":"http://pleiades.stoa.org/places/265767#this",
+    "title":"Ad Aras",
+    "names":["Ad Aras","La Caracolera? 3 miles SE Linares"],
     "geometry":{
       "type":"FeatureCollection",
       "features":[{
         "type":"Feature",
         "geometry":{
-          "type":"Point",
-          "coordinates":[-3.6244,38.0379]
+          "type":"Polygon",
+          "coordinates":[[[-3,38],[-3,39],[-4,39],[-4,38],[-3,38]]]
         }
       }]
     }
@@ -1313,7 +1313,7 @@
     }
   }
 },{
-  "transcription":"II SOLARIA",
+  "transcription":"AD SOLARIA",
   "place":{
     "source":"http://pleiades.stoa.org/places/265769#this",
     "title":"Ad Duo Solaria",
@@ -1449,18 +1449,18 @@
     }
   }
 },{
-  "transcription":"AT TVRRES",
+  "transcription":"AD ARAS",
   "place":{
-    "source":"http://pleiades.stoa.org/places/265783#this",
-    "title":"Ad Turres?/Turres Saetab(...)?",
-    "names":["Ad Turres","Turres Saetab(...)","Fuente la Higuera"],
+    "source":"http://pleiades.stoa.org/places/265766#this",
+    "title":"Ad Aras",
+    "names":["Ad Aras","near Fuente la Higuera?"],
     "geometry":{
       "type":"FeatureCollection",
       "features":[{
         "type":"Feature",
         "geometry":{
-          "type":"Point",
-          "coordinates":[-0.9249,38.7811]
+          "type":"Polygon",
+          "coordinates":[[[0.0,38],[0.0,39],[-1,39],[-1,38],[0.0,38]]]
         }
       }]
     }
@@ -1517,7 +1517,7 @@
     }
   }
 },{
-  "transcription":"SAGVNTO",
+  "transcription":"SAGYNTO",
   "place":{
     "source":"http://pleiades.stoa.org/places/266021#this",
     "title":"Saguntum/Arse",
@@ -1534,18 +1534,18 @@
     }
   }
 },{
-  "transcription":"SEBELACI",
+  "transcription":"AD NOVLAS",
   "place":{
-    "source":"http://pleiades.stoa.org/places/266034#this",
-    "title":"Sebelaci",
-    "names":["Sebelaci","between R. Millárs (Mijares) and La Rambla de la Viuda?"],
+    "source":"http://pleiades.stoa.org/places/265778#this",
+    "title":"Ad Novlas",
+    "names":["Ad Novlas","3 miles W Castellón de la Plana?"],
     "geometry":{
       "type":"FeatureCollection",
       "features":[{
         "type":"Feature",
         "geometry":{
           "type":"Point",
-          "coordinates":[-0.1381,39.9596]
+          "coordinates":[-0.1201,39.9675]
         }
       }]
     }
@@ -1585,7 +1585,7 @@
     }
   }
 },{
-  "transcription":"INTILIBI",
+  "transcription":"INTIBILI",
   "place":{
     "source":"http://pleiades.stoa.org/places/246439#this",
     "title":"Indibilis",
@@ -1619,24 +1619,7 @@
     }
   }
 },{
-  "transcription":"TRIA CAPITA",
-  "place":{
-    "source":"http://pleiades.stoa.org/places/246705#this",
-    "title":"Tria Capita",
-    "names":["Tria Capita","L’Ampolla"],
-    "geometry":{
-      "type":"FeatureCollection",
-      "features":[{
-        "type":"Feature",
-        "geometry":{
-          "type":"Point",
-          "coordinates":[0.7002,40.8048]
-        }
-      }]
-    }
-  }
-},{
-  "transcription":"SVB SALTV",
+  "transcription":"SVBSALTV",
   "place":{
     "source":"http://pleiades.stoa.org/places/246665#this",
     "title":"Sub Saltu",
@@ -1772,7 +1755,7 @@
     }
   }
 },{
-  "transcription":"SAETERRAS",
+  "transcription":"SITERAS",
   "place":{
     "source":"http://pleiades.stoa.org/places/246652#this",
     "title":"Seterrae",
@@ -1789,7 +1772,7 @@
     }
   }
 },{
-  "transcription":"AQVIS VOCONIS",
+  "transcription":"AQVIS VOCONI",
   "place":{
     "source":"http://pleiades.stoa.org/places/246174#this",
     "title":"Aquae Voconiae",
@@ -1823,7 +1806,7 @@
     }
   }
 },{
-  "transcription":"CINNIANA",
+  "transcription":"CILNIANA",
   "place":{
     "source":"http://pleiades.stoa.org/places/246335#this",
     "title":"Cinniana",
@@ -1857,7 +1840,7 @@
     }
   }
 },{
-  "transcription":"IN PYRENAEO",
+  "transcription":"IN PYRENEO",
   "place":{
     "source":"http://pleiades.stoa.org/places/246139#this",
     "title":"Ad Pyrenaeum/Summus Pyrenaeus",
@@ -1874,7 +1857,7 @@
     }
   }
 },{
-  "transcription":"RVSCINONE",
+  "transcription":"RVSCINNE",
   "place":{
     "source":"http://pleiades.stoa.org/places/246348#this",
     "title":"Col. Ruscino",
@@ -1942,7 +1925,7 @@
     }
   }
 },{
-  "transcription":"BAETERRA",
+  "transcription":"BAETERRAS",
   "place":{
     "source":"http://pleiades.stoa.org/places/148056#this",
     "title":"Col. Baeterrae",
@@ -1993,7 +1976,7 @@
     }
   }
 },{
-  "transcription":"SEXTANTIONE",
+  "transcription":"SEXTANTIO",
   "place":{
     "source":"http://pleiades.stoa.org/places/148202#this",
     "title":"Sextantio",
@@ -2078,24 +2061,7 @@
     }
   }
 },{
-  "transcription":"ARELATA",
-  "place":{
-    "source":"http://pleiades.stoa.org/places/148217#this",
-    "title":"Theline/Col. Arelate/Constantina",
-    "names":["Arles","Col. Arelate","Col. Iulia Paterna Sextanorum Arelate","Constantina","Theline","Arles"],
-    "geometry":{
-      "type":"FeatureCollection",
-      "features":[{
-        "type":"Feature",
-        "geometry":{
-          "type":"Point",
-          "coordinates":[4.6308,43.6776]
-        }
-      }]
-    }
-  }
-},{
-  "transcription":"ERNAGINO",
+  "transcription":"ERNAGINI",
   "place":{
     "source":"http://pleiades.stoa.org/places/148074#this",
     "title":"Ernaginum",
@@ -2180,7 +2146,7 @@
     }
   }
 },{
-  "transcription":"CATVIACIA",
+  "transcription":"CATVLACIA",
   "place":{
     "source":"http://pleiades.stoa.org/places/148041#this",
     "title":"Catuiacia",
@@ -2248,7 +2214,7 @@
     }
   }
 },{
-  "transcription":"VAPPINCO",
+  "transcription":"VAPPINQVO",
   "place":{
     "source":"http://pleiades.stoa.org/places/167954#this",
     "title":"Vappincum",
@@ -2265,7 +2231,7 @@
     }
   }
 },{
-  "transcription":"CATVRIGOMAG",
+  "transcription":"CATVRIGOMAGI",
   "place":{
     "source":"http://pleiades.stoa.org/places/167701#this",
     "title":"Caturigomagus",
@@ -2333,7 +2299,7 @@
     }
   }
 },{
-  "transcription":"SVMMAS ALPES",
+  "transcription":"GRVENTIA",
   "place":{
     "source":"http://pleiades.stoa.org/places/167743#this",
     "title":"Druantium/*Alpis Cottia/Summae Alpes",
@@ -2350,7 +2316,7 @@
     }
   }
 },{
-  "transcription":"GAESAONE",
+  "transcription":"GOESAO",
   "place":{
     "source":"http://pleiades.stoa.org/places/167778#this",
     "title":"Gaesao/Tyrium",
@@ -2367,7 +2333,7 @@
     }
   }
 },{
-  "transcription":"SEGVSIONE",
+  "transcription":"SEGVSIO",
   "place":{
     "source":"http://pleiades.stoa.org/places/167919#this",
     "title":"Segusio",
@@ -2418,7 +2384,7 @@
     }
   }
 },{
-  "transcription":"QVADRATA",
+  "transcription":"QVADRATIS",
   "place":{
     "source":"http://pleiades.stoa.org/places/383753#this",
     "title":"Quadrata",
@@ -2435,7 +2401,7 @@
     }
   }
 },{
-  "transcription":"RIGOMAGO",
+  "transcription":"RIGOMAGI",
   "place":{
     "source":"http://pleiades.stoa.org/places/383759#this",
     "title":"Rigomagus",
@@ -2452,7 +2418,7 @@
     }
   }
 },{
-  "transcription":"CVTTIAE",
+  "transcription":"CVTTIAS",
   "place":{
     "source":"http://pleiades.stoa.org/places/383630#this",
     "title":"Cuttiae",

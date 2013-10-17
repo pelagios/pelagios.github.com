@@ -147,12 +147,6 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[12.4862,41.8917],[-6.5,36.5]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
     "coordinates":[[4.635555,43.811154],[4.693318,43.767521]]
   }
 },{
@@ -436,12 +430,6 @@
   "geometry":{
     "type":"LineString",
     "coordinates":[[2.866662,42.468926],[2.946575,42.709811]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-6.292459,36.529726],[12.4862,41.8917]]
   }
 },{
   "type":"Feature",
@@ -2435,6 +2423,7 @@
     }
   }
 },{
+  "transcription":"Findspot: Vicarello",
   "place":{
     "source":"http://pleiades.stoa.org/places/413023#this",
     "title":"Aquae Apollinares Novae",

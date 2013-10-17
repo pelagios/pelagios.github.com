@@ -3,79 +3,7 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[5.874399,43.945944],[5.94352,44.197042]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[9.698743,45.052419],[9.910786,44.927187]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-0.278608,39.680031],[-0.120125,39.967525]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[6.57861,44.747573],[6.633951,44.896886]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[2.866662,42.468926],[2.946575,42.709811]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[4.360278,43.834875],[4.635555,43.811154]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[12.648528,43.546796],[13.396908,43.629616]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-5.996293,37.382668],[-5.996293,37.382668]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[3.217941,43.3416765],[3.420181,43.3945615]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-1.230685,38.746037],[-0.92493,38.781093]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[2.5,41.5],[2.635453,41.746451]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-5.642257,37.471001],[-5.348392,37.462227]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[3.692307,43.515715],[3.896373,43.64232]]
+    "coordinates":[[-6.292459,36.529726],[12.4862,41.8917]]
   }
 },{
   "type":"Feature",
@@ -87,19 +15,25 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[-0.515639,38.988847],[-0.43809,39.150204]]
+    "coordinates":[[9.698743,45.052419],[9.910786,44.927187]]
   }
 },{
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[0.073556,40.231686],[0.423109,40.418701]]
+    "coordinates":[[7.344923,45.116103],[7.686563,45.070198]]
   }
 },{
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[-2.353783,38.94902],[-2.008396,38.962484]]
+    "coordinates":[[-5.642257,37.471001],[-5.348392,37.462227]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-1.230685,38.746037],[-0.5,38.5]]
   }
 },{
   "type":"Feature",
@@ -111,115 +45,7 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[1.647899,41.310602],[1.5,41.5]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[5.565915,43.850093],[5.874399,43.945944]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[12.813782,43.69177],[12.648528,43.546796]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[8.61234,45.193215],[8.79735,45.122041]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[6.496364,44.565627],[6.57861,44.747573]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[12.524092,42.775577],[12.515737,42.519925]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-3.5,38.5],[-3.315366,38.184699]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[10.332548,44.804499],[10.630721,44.698137]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[11.883507,44.286236],[12.042702,44.221277]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[12.498463,42.147199],[12.4862,41.8917]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[7.344923,45.116103],[6.833543,45.03323]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[2.107509,41.548425],[2.5,41.5]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[3.592439,43.462968],[3.692307,43.515715]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[4.149669,43.715821],[4.360278,43.834875]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[11.349271,44.49452],[11.470575,44.443622]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-0.92493,38.781093],[-0.515639,38.988847]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[2.875397,42.766412],[3.004203,43.1836165]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[2.752102,41.846176],[2.826608,41.987346]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[1.514919,41.203989],[1.647899,41.310602]]
+    "coordinates":[[-4.5,37.5],[-4.779171,37.884683]]
   }
 },{
   "type":"Feature",
@@ -231,13 +57,7 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[12.5631945,44.0589565],[12.91577,43.912081]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-6.5,36.5],[-6.172572,36.788002]]
+    "coordinates":[[-6.172572,36.788002],[-5.82933,36.990065]]
   }
 },{
   "type":"Feature",
@@ -249,19 +69,19 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[-5.922275,37.283163],[-5.996293,37.382668]]
+    "coordinates":[[-2.353783,38.94902],[-2.008396,38.962484]]
   }
 },{
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[-0.376813,39.470371],[-0.278608,39.680031]]
+    "coordinates":[[6.496364,44.565627],[6.57861,44.747573]]
   }
 },{
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[9.52751,45.158683],[9.698743,45.052419]]
+    "coordinates":[[8.61234,45.193215],[8.79735,45.122041]]
   }
 },{
   "type":"Feature",
@@ -273,13 +93,43 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[-3.919521,38.004981],[-3.5,38.5]]
+    "coordinates":[[7.048364,45.138348],[7.344923,45.116103]]
   }
 },{
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[0.520955,40.811004],[0.813909,40.917425]]
+    "coordinates":[[5.565915,43.850093],[5.874399,43.945944]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[1.258617,41.114588],[1.514919,41.203989]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[9.52751,45.158683],[9.698743,45.052419]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.107509,41.548425],[2.5,41.5]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.813782,43.69177],[12.648528,43.546796]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[4.630799,43.677616],[4.693318,43.767521]]
   }
 },{
   "type":"Feature",
@@ -291,7 +141,103 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[1.258617,41.114588],[1.258617,41.114588]]
+    "coordinates":[[12.524092,42.775577],[12.515737,42.519925]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.752102,41.846176],[2.826608,41.987346]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-5.079949,37.540932],[-4.5,37.5]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-2.694845,38.692191],[-2.353783,38.94902]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[1.514919,41.203989],[1.647899,41.310602]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[4.149669,43.715821],[4.360278,43.834875]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[10.332548,44.804499],[10.630721,44.698137]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.498463,42.147199],[12.4862,41.8917]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[11.883507,44.286236],[12.042702,44.221277]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.875397,42.766412],[3.004203,43.1836165]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-6.5,36.5],[-6.172572,36.788002]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[0.520955,40.811004],[0.813909,40.917425]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-5.922275,37.283163],[-5.996293,37.382668]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[11.349271,44.49452],[11.470575,44.443622]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-3.919521,38.004981],[-3.624424,38.037913]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-0.376813,39.470371],[-0.278608,39.680031]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.5631945,44.0589565],[12.91577,43.912081]]
   }
 },{
   "type":"Feature",
@@ -309,13 +255,7 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[-2.694845,38.692191],[-2.353783,38.94902]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-5.079949,37.540932],[-4.779171,37.884683]]
+    "coordinates":[[6.633951,44.896886],[6.723215,44.931266]]
   }
 },{
   "type":"Feature",
@@ -327,13 +267,19 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[6.723215,44.931266],[6.793592,44.952968]]
+    "coordinates":[[6.723215,44.931266],[7.048364,45.138348]]
   }
 },{
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[7.25,45.25],[7.686563,45.070198]]
+    "coordinates":[[4.832867,43.773471],[5.034166,43.829885]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[3.896373,43.64232],[4.149669,43.715821]]
   }
 },{
   "type":"Feature",
@@ -351,109 +297,7 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[12.609394,42.93488],[12.524092,42.775577]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[13.016921,43.844902],[12.813782,43.69177]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[5.393684,43.876571],[5.565915,43.850093]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-5.82933,36.990065],[-5.922275,37.283163]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[9.156562,45.185899],[9.52751,45.158683]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[13.396908,43.629616],[12.759704,43.296882]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[4.635555,43.811154],[4.693318,43.767521]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[3.420181,43.3945615],[3.592439,43.462968]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[11.707535,44.353995],[11.883507,44.286236]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[9.910786,44.927187],[10.332548,44.804499]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[2.946575,42.709811],[2.875397,42.766412]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[6.633951,44.896886],[6.723215,44.931266]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[0.813909,40.917425],[1.258617,41.114588]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[6.75,44.75],[7.344923,45.116103]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[12.466942,42.411879],[12.498463,42.147199]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[1.5,41.5],[2.107509,41.548425]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[10.925223,44.647057],[11.349271,44.49452]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[4.832867,43.773471],[5.034166,43.829885]]
+    "coordinates":[[2.910473,42.066067],[2.966727,42.275356]]
   }
 },{
   "type":"Feature",
@@ -465,7 +309,79 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[3.896373,43.64232],[4.149669,43.715821]]
+    "coordinates":[[5.393684,43.876571],[5.565915,43.850093]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[0.423109,40.418701],[0.520955,40.811004]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.946575,42.709811],[2.875397,42.766412]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-3.624424,38.037913],[-3.315366,38.184699]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[1.5,41.5],[2.107509,41.548425]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[9.156562,45.185899],[9.52751,45.158683]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[13.016921,43.844902],[12.813782,43.69177]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[3.420181,43.3945615],[3.692307,43.515715]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.609394,42.93488],[12.524092,42.775577]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[0.813909,40.917425],[1.258617,41.114588]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-0.120125,39.967525],[0.073556,40.231686]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[4.635555,43.811154],[4.630799,43.677616]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.4862,41.8917],[-6.5,36.5]]
   }
 },{
   "type":"Feature",
@@ -483,91 +399,37 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[2.910473,42.066067],[2.966727,42.275356]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-4.779171,37.884683],[-4.779171,37.884683]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[0.423109,40.418701],[0.520955,40.811004]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-0.43809,39.150204],[-0.376813,39.470371]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-4.186553,38.074265],[-3.919521,38.004981]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-2.008396,38.962484],[-1.722773,38.918645]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[6.793592,44.952968],[6.75,44.75]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-4.714118,37.910599],[-4.381896,38.026033]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[12.515737,42.519925],[12.466942,42.411879]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[-0.120125,39.967525],[0.073556,40.231686]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[10.630721,44.698137],[10.925223,44.647057]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[12.042702,44.221277],[12.240529,44.136482]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
-    "coordinates":[[6.833543,45.03323],[7.25,45.25]]
-  }
-},{
-  "type":"Feature",
-  "geometry":{
-    "type":"LineString",
     "coordinates":[[-5.348392,37.462227],[-5.079949,37.540932]]
   }
 },{
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[12.91577,43.912081],[13.016921,43.844902]]
+    "coordinates":[[11.707535,44.353995],[11.883507,44.286236]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[13.396908,43.629616],[12.759704,43.296882]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-0.5,38.5],[-0.515639,38.988847]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[9.910786,44.927187],[10.332548,44.804499]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.466942,42.411879],[12.498463,42.147199]]
   }
 },{
   "type":"Feature",
@@ -579,25 +441,31 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[8.79735,45.122041],[9.156562,45.185899]]
+    "coordinates":[[10.925223,44.647057],[11.349271,44.49452]]
   }
 },{
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[-6.172572,36.788002],[-5.82933,36.990065]]
+    "coordinates":[[-4.779171,37.884683],[-4.714118,37.910599]]
   }
 },{
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[3.004203,43.1836165],[3.004203,43.1836165]]
+    "coordinates":[[-4.186553,38.074265],[-3.919521,38.004981]]
   }
 },{
   "type":"Feature",
   "geometry":{
     "type":"LineString",
-    "coordinates":[[11.470575,44.443622],[11.707535,44.353995]]
+    "coordinates":[[-0.43809,39.150204],[-0.376813,39.470371]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-2.008396,38.962484],[-1.722773,38.918645]]
   }
 },{
   "type":"Feature",
@@ -609,12 +477,150 @@
   "type":"Feature",
   "geometry":{
     "type":"LineString",
+    "coordinates":[[-5.82933,36.990065],[-5.922275,37.283163]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[6.57861,44.747573],[6.633951,44.896886]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-4.714118,37.910599],[-4.381896,38.026033]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[3.217941,43.3416765],[3.420181,43.3945615]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[4.360278,43.834875],[4.635555,43.811154]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[5.874399,43.945944],[5.94352,44.197042]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.515737,42.519925],[12.466942,42.411879]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.648528,43.546796],[13.396908,43.629616]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[3.692307,43.515715],[3.896373,43.64232]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.5,41.5],[2.635453,41.746451]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[4.693318,43.767521],[4.832867,43.773471]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-0.515639,38.988847],[-0.43809,39.150204]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[0.073556,40.231686],[0.423109,40.418701]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
     "coordinates":[[2.826608,41.987346],[2.910473,42.066067]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.042702,44.221277],[12.240529,44.136482]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[10.630721,44.698137],[10.925223,44.647057]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[3.004203,43.1836165],[3.217941,43.3416765]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[1.647899,41.310602],[1.5,41.5]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.866662,42.468926],[2.946575,42.709811]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-0.278608,39.680031],[-0.120125,39.967525]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[8.79735,45.122041],[9.156562,45.185899]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.91577,43.912081],[13.016921,43.844902]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[11.470575,44.443622],[11.707535,44.353995]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-5.996293,37.382668],[-5.642257,37.471001]]
   }
 }],
 "places":
 [{
-  "transcription":"GADIBVS",
+  "transcription":"GADES",
   "place":{
     "source":"http://pleiades.stoa.org/places/256177#this",
     "title":"Gadeira/Gades/Col. Augusta Gaditana",
@@ -631,7 +637,7 @@
     }
   }
 },{
-  "transcription":"CARMONE",
+  "transcription":"CARMONEM",
   "place":{
     "source":"http://pleiades.stoa.org/places/256058#this",
     "title":"Carmo",
@@ -682,7 +688,7 @@
     }
   }
 },{
-  "transcription":"LAMBRO FLVMEN",
+  "transcription":"PLAMBRVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/383685#this",
     "title":"Lambrum",
@@ -699,7 +705,7 @@
     }
   }
 },{
-  "transcription":"PLACENTIA",
+  "transcription":"PLACENTIAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/383741#this",
     "title":"Placentia",
@@ -716,7 +722,7 @@
     }
   }
 },{
-  "transcription":"FLORENTIA",
+  "transcription":"FLORENTIAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/383649#this",
     "title":"Florenti(ol)a",
@@ -733,7 +739,7 @@
     }
   }
 },{
-  "transcription":"PARMA",
+  "transcription":"PARMAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/383737#this",
     "title":"Parma",
@@ -750,7 +756,7 @@
     }
   }
 },{
-  "transcription":"REGIO",
+  "transcription":"LEPIDVM REGIVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/383755#this",
     "title":"Regium Lepidum",
@@ -767,7 +773,7 @@
     }
   }
 },{
-  "transcription":"MVTINA",
+  "transcription":"MVTINAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/383715#this",
     "title":"Mutina",
@@ -784,7 +790,7 @@
     }
   }
 },{
-  "transcription":"BONONIA",
+  "transcription":"BONONIAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/393421#this",
     "title":"Felsina/Bononia",
@@ -801,7 +807,7 @@
     }
   }
 },{
-  "transcription":"CLATERNAS",
+  "transcription":"CLATERNVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/393405#this",
     "title":"Claterna",
@@ -818,7 +824,7 @@
     }
   }
 },{
-  "transcription":"OBVCLAE",
+  "transcription":"OBVCLAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/256332#this",
     "title":"Obulcula",
@@ -835,7 +841,7 @@
     }
   }
 },{
-  "transcription":"FORO CORNELI",
+  "transcription":"FORVM CORNELI",
   "place":{
     "source":"http://pleiades.stoa.org/places/393424#this",
     "title":"Forum Cornelii",
@@ -852,7 +858,7 @@
     }
   }
 },{
-  "transcription":"FAVENTIA",
+  "transcription":"FAVENTIAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/393420#this",
     "title":"Faventia",
@@ -869,7 +875,7 @@
     }
   }
 },{
-  "transcription":"FORO IVLI",
+  "transcription":"FORVM LIVI",
   "place":{
     "source":"http://pleiades.stoa.org/places/393426#this",
     "title":"Forum Livii",
@@ -886,7 +892,7 @@
     }
   }
 },{
-  "transcription":"CVRVA CAESANA",
+  "transcription":"CESENAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/393397#this",
     "title":"Caesena",
@@ -903,7 +909,7 @@
     }
   }
 },{
-  "transcription":"ARIMINI",
+  "transcription":"ARIMINVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/393379#this",
     "title":"Ariminum",
@@ -920,7 +926,7 @@
     }
   }
 },{
-  "transcription":"PISAVRO",
+  "transcription":"PISAVRVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/413256#this",
     "title":"Pisaurum",
@@ -937,7 +943,7 @@
     }
   }
 },{
-  "transcription":"FANO FORTVNAE",
+  "transcription":"FANVM FORTVNAE",
   "place":{
     "source":"http://pleiades.stoa.org/places/413129#this",
     "title":"Fanum Fortunae",
@@ -954,7 +960,7 @@
     }
   }
 },{
-  "transcription":"FORO SEMPRONI",
+  "transcription":"FORVM SEMPRONI",
   "place":{
     "source":"http://pleiades.stoa.org/places/413149#this",
     "title":"Forum Sempronii",
@@ -971,7 +977,7 @@
     }
   }
 },{
-  "transcription":"AT CALE",
+  "transcription":"AD CALEM",
   "place":{
     "source":"http://pleiades.stoa.org/places/413058#this",
     "title":"Cales",
@@ -988,7 +994,7 @@
     }
   }
 },{
-  "transcription":"HAESIM",
+  "transcription":"HESIM",
   "place":{
     "source":"http://pleiades.stoa.org/places/412989#this",
     "title":"Ad Aesim",
@@ -1005,7 +1011,7 @@
     }
   }
 },{
-  "transcription":"ASTIGI",
+  "transcription":"ASTIGIM",
   "place":{
     "source":"http://pleiades.stoa.org/places/255996#this",
     "title":"Astigi/Col. Augusta Firma",
@@ -1022,7 +1028,7 @@
     }
   }
 },{
-  "transcription":"HELVILLO",
+  "transcription":"HELVILLVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/413167#this",
     "title":"Helvillum",
@@ -1039,14 +1045,14 @@
     }
   }
 },{
-  "transcription":"NVCERIA",
+  "transcription":"NVCERIAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/456102#this",
     "title":"Nuceria",
     "names":["Nuceria","near Terina?"]
   }
 },{
-  "transcription":"MAEVANIA",
+  "transcription":"MEVANIAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/413200#this",
     "title":"Mevania",
@@ -1063,7 +1069,7 @@
     }
   }
 },{
-  "transcription":"MARTIS",
+  "transcription":"AD MARTIS",
   "place":{
     "source":"http://pleiades.stoa.org/places/413380#this",
     "title":"Vicus Martis",
@@ -1080,7 +1086,7 @@
     }
   }
 },{
-  "transcription":"NARNIA",
+  "transcription":"NARNIAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/413225#this",
     "title":"Nequinum/Narnia",
@@ -1131,7 +1137,7 @@
     }
   }
 },{
-  "transcription":"ROMAE",
+  "transcription":"ROMAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/423025#this",
     "title":"Roma",
@@ -1148,7 +1154,24 @@
     }
   }
 },{
-  "transcription":"CORDVBA",
+  "transcription":"AD ARAS",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/257485#this",
+    "title":"Untitled",
+    "names":["NE Ad Aras","over R. Guadalmazán"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Polygon",
+          "coordinates":[[[-4,37],[-4,38],[-5,38],[-5,37],[-4,37]]]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"CORDVBAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/256128#this",
     "title":"Corduba/Col. Patricia",
@@ -1165,41 +1188,7 @@
     }
   }
 },{
-  "transcription":"CORDVBA",
-  "place":{
-    "source":"http://pleiades.stoa.org/places/256128#this",
-    "title":"Corduba/Col. Patricia",
-    "names":["Col. Patricia","Corduba","Córdoba","Córdoba"],
-    "geometry":{
-      "type":"FeatureCollection",
-      "features":[{
-        "type":"Feature",
-        "geometry":{
-          "type":"Point",
-          "coordinates":[-4.7792,37.8847]
-        }
-      }]
-    }
-  }
-},{
-  "transcription":"TARRACONE",
-  "place":{
-    "source":"http://pleiades.stoa.org/places/246349#this",
-    "title":"Col. Tarraco",
-    "names":["Col. Iulia Urbs Triumphalis","Col. Tarraco","Tarragona"],
-    "geometry":{
-      "type":"FeatureCollection",
-      "features":[{
-        "type":"Feature",
-        "geometry":{
-          "type":"Point",
-          "coordinates":[1.2586,41.1146]
-        }
-      }]
-    }
-  }
-},{
-  "transcription":"AD DECVMVM",
+  "transcription":"AD X",
   "place":{
     "source":"http://pleiades.stoa.org/places/255952#this",
     "title":"Ad Decumum",
@@ -1216,7 +1205,7 @@
     }
   }
 },{
-  "transcription":"EPORA",
+  "transcription":"EPORAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/265893#this",
     "title":"Epora",
@@ -1233,7 +1222,7 @@
     }
   }
 },{
-  "transcription":"ROMA",
+  "transcription":"ROMAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/423025#this",
     "title":"Roma",
@@ -1250,7 +1239,7 @@
     }
   }
 },{
-  "transcription":"VCIENSE",
+  "transcription":"VCIESEM",
   "place":{
     "source":"http://pleiades.stoa.org/places/266051#this",
     "title":"(S)Ucia",
@@ -1284,18 +1273,18 @@
     }
   }
 },{
-  "transcription":"AD ARAS",
+  "transcription":"CASTVLONEM",
   "place":{
-    "source":"http://pleiades.stoa.org/places/265767#this",
-    "title":"Ad Aras",
-    "names":["Ad Aras","La Caracolera? 3 miles SE Linares"],
+    "source":"http://pleiades.stoa.org/places/265855#this",
+    "title":"Castulo",
+    "names":["Caesarii Iuvenales","Castulo","Cortijos de S. Eufemia y de Yangues","4.4 miles S Linares"],
     "geometry":{
       "type":"FeatureCollection",
       "features":[{
         "type":"Feature",
         "geometry":{
-          "type":"Polygon",
-          "coordinates":[[[-3,38],[-3,39],[-4,39],[-4,38],[-3,38]]]
+          "type":"Point",
+          "coordinates":[-3.6244,38.0379]
         }
       }]
     }
@@ -1318,7 +1307,7 @@
     }
   }
 },{
-  "transcription":"AD DVO SOLARIA",
+  "transcription":"II SOLARIA",
   "place":{
     "source":"http://pleiades.stoa.org/places/265769#this",
     "title":"Ad Duo Solaria",
@@ -1352,7 +1341,7 @@
     }
   }
 },{
-  "transcription":"MENTESA",
+  "transcription":"MENTESAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/265969#this",
     "title":"Mentesa",
@@ -1369,7 +1358,7 @@
     }
   }
 },{
-  "transcription":"LIBISOSA",
+  "transcription":"LIBISOSAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/265949#this",
     "title":"Libisosa",
@@ -1403,7 +1392,7 @@
     }
   }
 },{
-  "transcription":"AD PORTV",
+  "transcription":"AD PORTVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/255955#this",
     "title":"Ad Portum/Gaditanus Portus",
@@ -1420,7 +1409,7 @@
     }
   }
 },{
-  "transcription":"SALTIGI",
+  "transcription":"SALTIGIM",
   "place":{
     "source":"http://pleiades.stoa.org/places/266025#this",
     "title":"Saltigi",
@@ -1437,7 +1426,7 @@
     }
   }
 },{
-  "transcription":"AD PALAE",
+  "transcription":"AD PALEM",
   "place":{
     "source":"http://pleiades.stoa.org/places/265779#this",
     "title":"Ad Palem?",
@@ -1454,24 +1443,24 @@
     }
   }
 },{
-  "transcription":"TVRRE SAETAB",
+  "transcription":"AD ARAS",
   "place":{
-    "source":"http://pleiades.stoa.org/places/265783#this",
-    "title":"Ad Turres?/Turres Saetab(...)?",
-    "names":["Ad Turres","Turres Saetab(...)","Fuente la Higuera"],
+    "source":"http://pleiades.stoa.org/places/265766#this",
+    "title":"Ad Aras",
+    "names":["Ad Aras","near Fuente la Higuera?"],
     "geometry":{
       "type":"FeatureCollection",
       "features":[{
         "type":"Feature",
         "geometry":{
-          "type":"Point",
-          "coordinates":[-0.9249,38.7811]
+          "type":"Polygon",
+          "coordinates":[[[0.0,38],[0.0,39],[-1,39],[-1,38],[0.0,38]]]
         }
       }]
     }
   }
 },{
-  "transcription":"SAETABI",
+  "transcription":"SAETABIM",
   "place":{
     "source":"http://pleiades.stoa.org/places/266018#this",
     "title":"Saetabis",
@@ -1488,7 +1477,7 @@
     }
   }
 },{
-  "transcription":"SVCRONE",
+  "transcription":"SVCRONEM",
   "place":{
     "source":"http://pleiades.stoa.org/places/266052#this",
     "title":"Sucro",
@@ -1505,7 +1494,7 @@
     }
   }
 },{
-  "transcription":"VALENTIA",
+  "transcription":"VALENTIAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/266090#this",
     "title":"Valentia",
@@ -1522,7 +1511,7 @@
     }
   }
 },{
-  "transcription":"SAGVNTO",
+  "transcription":"SAGYNTVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/266021#this",
     "title":"Saguntum/Arse",
@@ -1539,7 +1528,7 @@
     }
   }
 },{
-  "transcription":"AD NOVA",
+  "transcription":"AD NOVLAS",
   "place":{
     "source":"http://pleiades.stoa.org/places/265778#this",
     "title":"Ad Novlas",
@@ -1556,7 +1545,7 @@
     }
   }
 },{
-  "transcription":"HASTA",
+  "transcription":"HASTAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/256193#this",
     "title":"(H)Asta/Col. Hasta Regia/Ligystine?",
@@ -1573,7 +1562,7 @@
     }
   }
 },{
-  "transcription":"ILDV",
+  "transcription":"ILDVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/265920#this",
     "title":"Ildum",
@@ -1590,7 +1579,7 @@
     }
   }
 },{
-  "transcription":"INTIBILI",
+  "transcription":"INTIBILIM",
   "place":{
     "source":"http://pleiades.stoa.org/places/246439#this",
     "title":"Indibilis",
@@ -1607,7 +1596,7 @@
     }
   }
 },{
-  "transcription":"DERTOSA",
+  "transcription":"DERTOSAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/246369#this",
     "title":"Dertosa/Hibera Iulia Ilercavonia",
@@ -1624,7 +1613,7 @@
     }
   }
 },{
-  "transcription":"SVB SALTV",
+  "transcription":"SVB SALTVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/246665#this",
     "title":"Sub Saltu",
@@ -1641,7 +1630,7 @@
     }
   }
 },{
-  "transcription":"TARRACONE",
+  "transcription":"TARRACONEM",
   "place":{
     "source":"http://pleiades.stoa.org/places/246349#this",
     "title":"Col. Tarraco",
@@ -1658,41 +1647,7 @@
     }
   }
 },{
-  "transcription":"TARRACONE",
-  "place":{
-    "source":"http://pleiades.stoa.org/places/246349#this",
-    "title":"Col. Tarraco",
-    "names":["Col. Iulia Urbs Triumphalis","Col. Tarraco","Tarragona"],
-    "geometry":{
-      "type":"FeatureCollection",
-      "features":[{
-        "type":"Feature",
-        "geometry":{
-          "type":"Point",
-          "coordinates":[1.2586,41.1146]
-        }
-      }]
-    }
-  }
-},{
-  "transcription":"NARBONE",
-  "place":{
-    "source":"http://pleiades.stoa.org/places/246347#this",
-    "title":"Col. Narbo Martius",
-    "names":["Col. Iulia Paterna Claudia","Col. Narbo Martius","Narbonne","Narbonne FRA"],
-    "geometry":{
-      "type":"FeatureCollection",
-      "features":[{
-        "type":"Feature",
-        "geometry":{
-          "type":"Point",
-          "coordinates":[3.0042,43.1836]
-        }
-      }]
-    }
-  }
-},{
-  "transcription":"PALFVRIANA",
+  "transcription":"PALFVRIANAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/246551#this",
     "title":"Palfuriana",
@@ -1709,7 +1664,7 @@
     }
   }
 },{
-  "transcription":"ANTESTIANA",
+  "transcription":"ANTISTIANAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/246166#this",
     "title":"Antistiana",
@@ -1726,7 +1681,7 @@
     }
   }
 },{
-  "transcription":"VGIAE",
+  "transcription":"VGIAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/256501#this",
     "title":"U(r)gia",
@@ -1760,7 +1715,7 @@
     }
   }
 },{
-  "transcription":"ABRAGONE",
+  "transcription":"ARRAGONEM",
   "place":{
     "source":"http://pleiades.stoa.org/places/246192#this",
     "title":"Arrago(na)",
@@ -1777,7 +1732,7 @@
     }
   }
 },{
-  "transcription":"AD PRAETORIVM",
+  "transcription":"SEMPRONIANA",
   "place":{
     "source":"http://pleiades.stoa.org/places/246576#this",
     "title":"Praetorium?",
@@ -1794,7 +1749,7 @@
     }
   }
 },{
-  "transcription":"BAETERRAS",
+  "transcription":"SETERRAS",
   "place":{
     "source":"http://pleiades.stoa.org/places/246652#this",
     "title":"Seterrae",
@@ -1811,7 +1766,7 @@
     }
   }
 },{
-  "transcription":"AQVAS VOCONIAS",
+  "transcription":"AQVIS VOCONTIS",
   "place":{
     "source":"http://pleiades.stoa.org/places/246174#this",
     "title":"Aquae Voconiae",
@@ -1828,7 +1783,7 @@
     }
   }
 },{
-  "transcription":"GERVNDA",
+  "transcription":"GERVNDAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/246406#this",
     "title":"Gerunda",
@@ -1845,7 +1800,7 @@
     }
   }
 },{
-  "transcription":"CINNIANA",
+  "transcription":"CILNIANAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/246335#this",
     "title":"Cinniana",
@@ -1862,7 +1817,7 @@
     }
   }
 },{
-  "transcription":"IVNCARIA",
+  "transcription":"IVNCARIAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/246449#this",
     "title":"Iuncaria",
@@ -1879,7 +1834,7 @@
     }
   }
 },{
-  "transcription":"SVMMO PYRENAE",
+  "transcription":"IN PYRAENEVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/246139#this",
     "title":"Ad Pyrenaeum/Summus Pyrenaeus",
@@ -1896,7 +1851,7 @@
     }
   }
 },{
-  "transcription":"RVSCINONE",
+  "transcription":"RVSCINONEM",
   "place":{
     "source":"http://pleiades.stoa.org/places/246348#this",
     "title":"Col. Ruscino",
@@ -1913,7 +1868,7 @@
     }
   }
 },{
-  "transcription":"ORIPPO",
+  "transcription":"ORIPPVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/256343#this",
     "title":"Orippo",
@@ -1930,7 +1885,7 @@
     }
   }
 },{
-  "transcription":"AD COMMVSTA",
+  "transcription":"COMBVSTA",
   "place":{
     "source":"http://pleiades.stoa.org/places/246351#this",
     "title":"Combusta",
@@ -1947,7 +1902,7 @@
     }
   }
 },{
-  "transcription":"NARBONE",
+  "transcription":"NARBONEM",
   "place":{
     "source":"http://pleiades.stoa.org/places/246347#this",
     "title":"Col. Narbo Martius",
@@ -1959,40 +1914,6 @@
         "geometry":{
           "type":"Point",
           "coordinates":[3.0042,43.1836]
-        }
-      }]
-    }
-  }
-},{
-  "transcription":"NARBONE",
-  "place":{
-    "source":"http://pleiades.stoa.org/places/246347#this",
-    "title":"Col. Narbo Martius",
-    "names":["Col. Iulia Paterna Claudia","Col. Narbo Martius","Narbonne","Narbonne FRA"],
-    "geometry":{
-      "type":"FeatureCollection",
-      "features":[{
-        "type":"Feature",
-        "geometry":{
-          "type":"Point",
-          "coordinates":[3.0042,43.1836]
-        }
-      }]
-    }
-  }
-},{
-  "transcription":"TAVRINOS",
-  "place":{
-    "source":"http://pleiades.stoa.org/places/383580#this",
-    "title":"Augusta Taurinorum",
-    "names":["Augusta Taurinorum","Torino","Turin"],
-    "geometry":{
-      "type":"FeatureCollection",
-      "features":[{
-        "type":"Feature",
-        "geometry":{
-          "type":"Point",
-          "coordinates":[7.6866,45.0702]
         }
       }]
     }
@@ -2015,7 +1936,7 @@
     }
   }
 },{
-  "transcription":"CESSIRONE",
+  "transcription":"CESSERONEM",
   "place":{
     "source":"http://pleiades.stoa.org/places/147997#this",
     "title":"Araura/Cessero",
@@ -2032,24 +1953,7 @@
     }
   }
 },{
-  "transcription":"FRONTIANA",
-  "place":{
-    "source":"http://pleiades.stoa.org/places/148086#this",
-    "title":"Frontiana",
-    "names":["Frontiana","between St-Thibéry and Montbazin"],
-    "geometry":{
-      "type":"FeatureCollection",
-      "features":[{
-        "type":"Feature",
-        "geometry":{
-          "type":"Point",
-          "coordinates":[3.5924,43.463]
-        }
-      }]
-    }
-  }
-},{
-  "transcription":"FORO DOMITI",
+  "transcription":"FORVM DOMITI",
   "place":{
     "source":"http://pleiades.stoa.org/places/148081#this",
     "title":"Forum Domitii",
@@ -2066,7 +1970,7 @@
     }
   }
 },{
-  "transcription":"SEXTANTIONE",
+  "transcription":"SEXTANTIONEM",
   "place":{
     "source":"http://pleiades.stoa.org/places/148202#this",
     "title":"Sextantio",
@@ -2083,7 +1987,7 @@
     }
   }
 },{
-  "transcription":"AMBRVSIO",
+  "transcription":"AMBRVSSVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/147990#this",
     "title":"Ambrussum",
@@ -2100,7 +2004,7 @@
     }
   }
 },{
-  "transcription":"HISPALI",
+  "transcription":"HISPALIM",
   "place":{
     "source":"http://pleiades.stoa.org/places/256210#this",
     "title":"Hispalis/Col. Romula",
@@ -2117,7 +2021,7 @@
     }
   }
 },{
-  "transcription":"NEMAVSO",
+  "transcription":"NEMAVSVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/148142#this",
     "title":"Nemausus",
@@ -2134,7 +2038,7 @@
     }
   }
 },{
-  "transcription":"VGERNO",
+  "transcription":"VGERNVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/148223#this",
     "title":"Ugernum",
@@ -2151,7 +2055,24 @@
     }
   }
 },{
-  "transcription":"TRAIECTVM RHODANI",
+  "transcription":"ARELATA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/148217#this",
+    "title":"Theline/Col. Arelate/Constantina",
+    "names":["Arles","Col. Arelate","Col. Iulia Paterna Sextanorum Arelate","Constantina","Theline","Arles"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[4.6308,43.6776]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"ERGNAGINVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/148074#this",
     "title":"Ernaginum",
@@ -2168,7 +2089,7 @@
     }
   }
 },{
-  "transcription":"GLANO",
+  "transcription":"CLANVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/148093#this",
     "title":"Glanum",
@@ -2185,7 +2106,7 @@
     }
   }
 },{
-  "transcription":"CABELLIONE",
+  "transcription":"CABELLIONEM",
   "place":{
     "source":"http://pleiades.stoa.org/places/148027#this",
     "title":"Cabellio",
@@ -2202,7 +2123,7 @@
     }
   }
 },{
-  "transcription":"APTA IVLIA",
+  "transcription":"APTAM IVLIAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/147993#this",
     "title":"Apta Iulia",
@@ -2219,7 +2140,7 @@
     }
   }
 },{
-  "transcription":"CATVIACIA",
+  "transcription":"CATVIACIAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/148041#this",
     "title":"Catuiacia",
@@ -2253,24 +2174,7 @@
     }
   }
 },{
-  "transcription":"HISPALI",
-  "place":{
-    "source":"http://pleiades.stoa.org/places/256210#this",
-    "title":"Hispalis/Col. Romula",
-    "names":["Col. Romula","Hispalis","Sevilla/Seville"],
-    "geometry":{
-      "type":"FeatureCollection",
-      "features":[{
-        "type":"Feature",
-        "geometry":{
-          "type":"Point",
-          "coordinates":[-5.9963,37.3827]
-        }
-      }]
-    }
-  }
-},{
-  "transcription":"SEGVSTERONE",
+  "transcription":"SEGVSTERONEM",
   "place":{
     "source":"http://pleiades.stoa.org/places/157925#this",
     "title":"Segustero",
@@ -2287,7 +2191,7 @@
     }
   }
 },{
-  "transcription":"ALABONTE",
+  "transcription":"ALABONTEM",
   "place":{
     "source":"http://pleiades.stoa.org/places/167628#this",
     "title":"Alabonte",
@@ -2304,7 +2208,7 @@
     }
   }
 },{
-  "transcription":"VAPPINQVO",
+  "transcription":"VAPPINCVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/167954#this",
     "title":"Vappincum",
@@ -2321,7 +2225,7 @@
     }
   }
 },{
-  "transcription":"CATVRIGOMAGO",
+  "transcription":"CATVRIGOMAGVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/167701#this",
     "title":"Caturigomagus",
@@ -2338,7 +2242,7 @@
     }
   }
 },{
-  "transcription":"EBORODVNO",
+  "transcription":"EBVRODVNVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/167750#this",
     "title":"Eburodunum",
@@ -2355,7 +2259,7 @@
     }
   }
 },{
-  "transcription":"RAMA",
+  "transcription":"RAMAM",
   "place":{
     "source":"http://pleiades.stoa.org/places/167881#this",
     "title":"Rama",
@@ -2372,7 +2276,7 @@
     }
   }
 },{
-  "transcription":"BRIGANTIONE",
+  "transcription":"BRIGANTIVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/167691#this",
     "title":"Brigantio",
@@ -2389,7 +2293,7 @@
     }
   }
 },{
-  "transcription":"DRVANTIO",
+  "transcription":"DRVANTIVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/167743#this",
     "title":"Druantium/*Alpis Cottia/Summae Alpes",
@@ -2406,58 +2310,24 @@
     }
   }
 },{
-  "transcription":"CORDYBAE",
+  "transcription":"SEGVSIONEM",
   "place":{
-    "source":"http://pleiades.stoa.org/places/256128#this",
-    "title":"Corduba/Col. Patricia",
-    "names":["Col. Patricia","Corduba","Córdoba","Córdoba"],
+    "source":"http://pleiades.stoa.org/places/167919#this",
+    "title":"Segusio",
+    "names":["Segusini","Segusio","Susa","Susa ITL"],
     "geometry":{
       "type":"FeatureCollection",
       "features":[{
         "type":"Feature",
         "geometry":{
           "type":"Point",
-          "coordinates":[-4.7792,37.8847]
+          "coordinates":[7.0484,45.1383]
         }
       }]
     }
   }
 },{
-  "transcription":"TYRIO",
-  "place":{
-    "source":"http://pleiades.stoa.org/places/167778#this",
-    "title":"Gaesao/Tyrium",
-    "names":["Gaesao","Tyrium","Cesana ITL"],
-    "geometry":{
-      "type":"FeatureCollection",
-      "features":[{
-        "type":"Feature",
-        "geometry":{
-          "type":"Point",
-          "coordinates":[6.7936,44.953]
-        }
-      }]
-    }
-  }
-},{
-  "transcription":"IN ALPE COTTIA",
-  "place":{
-    "source":"http://pleiades.stoa.org/places/167636#this",
-    "title":"Alpes Cottiae",
-    "names":["Alpes Cottiae","FRA/ITL"],
-    "geometry":{
-      "type":"FeatureCollection",
-      "features":[{
-        "type":"Feature",
-        "geometry":{
-          "type":"Polygon",
-          "coordinates":[[[7,44.5],[7,45],[6.5,45],[6.5,44.5],[7,44.5]]]
-        }
-      }]
-    }
-  }
-},{
-  "transcription":"OCELO",
+  "transcription":"OCELVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/383720#this",
     "title":"Ocelum",
@@ -2474,41 +2344,7 @@
     }
   }
 },{
-  "transcription":"AD MARTIS",
-  "place":{
-    "source":"http://pleiades.stoa.org/places/167617#this",
-    "title":"Ad Martis",
-    "names":["Ad Martis","Ulzio ITL"],
-    "geometry":{
-      "type":"FeatureCollection",
-      "features":[{
-        "type":"Feature",
-        "geometry":{
-          "type":"Point",
-          "coordinates":[6.8335,45.0332]
-        }
-      }]
-    }
-  }
-},{
-  "transcription":"AD FINES XXXX",
-  "place":{
-    "source":"http://pleiades.stoa.org/places/383545#this",
-    "title":"Ad Fines",
-    "names":["Ad Fines","Drubiaglio di Avigliana"],
-    "geometry":{
-      "type":"FeatureCollection",
-      "features":[{
-        "type":"Feature",
-        "geometry":{
-          "type":"Polygon",
-          "coordinates":[[[7.5,45],[7.5,45.5],[7,45.5],[7,45],[7.5,45]]]
-        }
-      }]
-    }
-  }
-},{
-  "transcription":"AVGVSTA TAVRIN",
+  "transcription":"TAVRINIS",
   "place":{
     "source":"http://pleiades.stoa.org/places/383580#this",
     "title":"Augusta Taurinorum",
@@ -2542,7 +2378,7 @@
     }
   }
 },{
-  "transcription":"RIGOMAGO",
+  "transcription":"RIGOMAGVM",
   "place":{
     "source":"http://pleiades.stoa.org/places/383759#this",
     "title":"Rigomagus",

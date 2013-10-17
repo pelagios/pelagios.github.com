@@ -1,0 +1,150 @@
+<html>
+  <head>
+    <title>PELAGIOS Test</title>
+    <link rel="stylesheet" href="http://pelagios.github.io/pelagios-heatmap/leaflet/leaflet.css" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+    <script type="text/javascript" src="http://pelagios.github.io/pelagios-heatmap/leaflet/leaflet.js"></script>
+    <script type="text/javascript" charset="utf-8">
+      $(function() {
+        var baseLayer = L.tileLayer('http://pelagios.dme.ait.ac.at/tilesets/imperium//{z}/{x}/{y}.png', {
+          attribution: 'Tiles: <a href="http://pelagios.dme.ait.ac.at/maps/greco-roman/about.html">Pelagios</a>, 2012; Data: NASA, OSM, Pleiades, DARMC',
+        });
+ 
+        var map = new L.Map('map', {
+          center: new L.LatLng(41.893588, 12.488022),
+          zoom: 5,
+          layers: [baseLayer],
+          minZoom: 5,
+          maxZoom: 11
+        });
+
+        var renderPath = function(data, color, layer) {
+          $.each(data, function(index, linestring) {
+            L.geoJson(linestring, {
+              style: {
+                color: color,
+                opacity: 0.8,
+                weight: 8
+              }
+            }).addTo(layer);
+          });
+        }
+        
+        var renderPlaces = function(data, color, layer) {
+          $.each(data, function(index, annotation) {
+            if (annotation.place.geometry) {
+              L.geoJson(annotation.place.geometry, {
+                
+                onEachFeature: function(feature, l) {
+                  var uri = annotation.place.source.substring(0, annotation.place.source.indexOf("#this"));
+                  l.bindPopup(annotation.transcription + ' (<a target="_blank" href="http://pelagios.dme.ait.ac.at/api/places/' + encodeURIComponent(uri) + '">' + annotation.place.title + '</a>)');
+                },
+                
+                pointToLayer: function (feature, latlng) { 
+                          return L.circleMarker(latlng, { radius: 5 }); 
+                },
+                
+                style: {
+                  color: color, 
+                  opacity: 0.8, 
+                  fillOpacity: 0.65
+                } 
+              }).addTo(layer);
+            }
+          });
+        };
+
+        var pathLayer0 = L.layerGroup().addTo(map);
+        var placeLayer0 = L.layerGroup().addTo(map);
+        $.getJSON('Vicarello-Beaker-1.json', function(data) {            renderPath(data.path, '#0000ff', pathLayer0);            renderPlaces(data.places, '#0000ff', placeLayer0);          });
+
+        var pathLayer1 = L.layerGroup();
+        var placeLayer1 = L.layerGroup();
+        $.getJSON('Vicarello-Beaker-2.json', function(data) {            renderPath(data.path, '#ff0000', pathLayer1);            renderPlaces(data.places, '#ff0000', placeLayer1);          });
+
+        var pathLayer2 = L.layerGroup();
+        var placeLayer2 = L.layerGroup();
+        $.getJSON('Vicarello-Beaker-3.json', function(data) {            renderPath(data.path, '#009900', pathLayer2);            renderPlaces(data.places, '#009900', placeLayer2);          });
+
+        var pathLayer3 = L.layerGroup();
+        var placeLayer3 = L.layerGroup();
+        $.getJSON('Vicarello-Beaker-4.json', function(data) {            renderPath(data.path, 'orange', pathLayer3);            renderPlaces(data.places, 'orange', placeLayer3);          });
+
+        L.control.layers({}, {
+          "Vicarello Beaker 1 (Path)": pathLayer0,
+          "Vicarello Beaker 1 (Places)": placeLayer0,
+          "Vicarello Beaker 2 (Path)": pathLayer1,
+          "Vicarello Beaker 2 (Places)": placeLayer1,
+          "Vicarello Beaker 3 (Path)": pathLayer2,
+          "Vicarello Beaker 3 (Places)": placeLayer2,
+          "Vicarello Beaker 4 (Path)": pathLayer3,
+          "Vicarello Beaker 4 (Places)": placeLayer3
+        }).addTo(map);
+      });
+    </script>
+    <style>
+      #map {
+        width:100%px;
+        height:100%;
+      }
+      
+      #meta {
+        position:absolute;
+        background-color:#fff;
+        padding:20px;
+        bottom:20px;
+        left:20px;
+        font-family:Arial, Sans, Verdana;
+        font-size:12px;
+        color:#000;
+        max-width:40%;
+      }
+      
+      #meta h1 {
+        font-size:14px;
+        padding:0;
+        margin:0;
+      }
+      
+      .thumb {
+        float:right;
+        padding:10px;
+      }
+      
+      ul, li {
+        padding-top:0;
+        padding-bottom:0;
+        margin-top:0;
+        margin-bottom:0;
+      }
+      
+      .citations li {
+        font-size:11px;
+        font-style:italic;
+      }
+
+      #alpha {
+        position: absolute;
+        top: 22px;
+        left: 60px;
+        background-color: red;
+        color: white;
+        font-weight: bold;
+        font-family: Arial, Sans;
+        padding: 14px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map" style=""></div>
+    <div id="meta">
+      <h1>Vicarello Beakers</h1>
+      <img class="thumb" src="http://farm8.staticflickr.com/7299/10171503914_ab235b32a7_t_d.jpg">      <p>Dated to between 15 BCE and 15 CE, the Vicarello Beakers are four cylindrical vessels made of silver with heights varying between 95-153 mm. They were discovered in the Roman baths at Vicarello, Italy, apparently deposited as a votive offering. Although differing in the details, on the surface of each beaker is engraved the land route between Gades and Rome. They have traditionally been identified as miniature replicas of a milestone probably erected in Gades, perhaps similar in design to the Miliarium Aureum (the Golden Milestone) in Rome.</p>
+
+    </div>
+    <div id="alpha">ALPHA!</div>
+  </body>
+</html>

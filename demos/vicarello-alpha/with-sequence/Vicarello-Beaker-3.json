@@ -1,0 +1,2489 @@
+{ "path":
+[{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[3.896373,43.64232],[4.149669,43.715821]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[10.630721,44.698137],[10.925223,44.647057]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-2.92748,38.547361],[-2.694845,38.692191]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.042702,44.221277],[12.240529,44.136482]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.635453,41.746451],[2.752102,41.846176]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-0.43809,39.150204],[-0.376813,39.470371]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-4.186553,38.074265],[-3.919521,38.004981]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-4.779171,37.884683],[-4.714118,37.910599]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[0.423109,40.418701],[0.520955,40.811004]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-2.008396,38.962484],[-1.722773,38.918645]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[6.57861,44.747573],[6.633951,44.896886]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-3.624424,38.037913],[-3.315366,38.184699]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-4.714118,37.910599],[-4.403644,38.02053]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.498463,42.147199],[12.4862,41.8917]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[6.793592,44.952968],[7.048364,45.138348]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[3.692307,43.515715],[3.896373,43.64232]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[4.693318,43.767521],[4.832867,43.773471]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[11.883507,44.286236],[12.042702,44.221277]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-5.348392,37.462227],[-5.079949,37.540932]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[5.25,43.75],[5.393684,43.876571]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[11.349271,44.49452],[11.470575,44.443622]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[3.004203,43.1836165],[3.217941,43.3416765]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[7.969391,45.191112],[8.297388,45.193171]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.826608,41.987346],[2.910473,42.066067]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[1.647899,41.310602],[1.5,41.5]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[6.075897,44.559876],[6.278222,44.545037]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.5631945,44.0589565],[12.91577,43.912081]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[0.073556,40.231686],[0.423109,40.418701]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[5.874399,43.945944],[5.94352,44.197042]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[9.52751,45.158683],[9.698743,45.052419]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-0.278608,39.680031],[-0.138097,39.959582]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[3.217941,43.3416765],[3.420181,43.3945615]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.813782,43.69177],[12.648528,43.546796]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[4.360278,43.834875],[4.635555,43.811154]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.524092,42.775577],[12.515737,42.519925]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.866662,42.468926],[2.946575,42.709811]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-6.172572,36.788002],[-5.82933,36.990065]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[0.700237,40.804813],[0.813909,40.917425]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.5,41.5],[2.635453,41.746451]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-5.642257,37.471001],[-5.348392,37.462227]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-3.103507,38.342214],[-2.92748,38.547361]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[10.332548,44.804499],[10.630721,44.698137]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-1.230685,38.746037],[-0.92493,38.781093]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-4.403644,38.02053],[-4.186553,38.074265]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-5.996293,37.382668],[-5.642257,37.471001]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-0.515639,38.988847],[-0.43809,39.150204]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-4.5,37.5],[-4.779171,37.884683]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[7.686563,45.070198],[7.969391,45.191112]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-2.353783,38.94902],[-2.008396,38.962484]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[8.61234,45.193215],[8.79735,45.122041]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[7.048364,45.138348],[7.344923,45.116103]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[5.565915,43.850093],[5.874399,43.945944]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[13.016921,43.844902],[12.813782,43.69177]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[6.496364,44.565627],[6.57861,44.747573]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.609394,42.93488],[12.524092,42.775577]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[7.344923,45.116103],[7.686563,45.070198]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[9.910786,44.927187],[10.332548,44.804499]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[13.396908,43.629616],[12.759704,43.296882]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[4.630799,43.677616],[4.693318,43.767521]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.466942,42.411879],[12.498463,42.147199]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[6.723215,44.931266],[6.793592,44.952968]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[11.707535,44.353995],[11.883507,44.286236]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-5.922275,37.283163],[-5.996293,37.382668]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.107509,41.548425],[2.5,41.5]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[10.925223,44.647057],[11.349271,44.49452]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[5.943974,44.385921],[6.075897,44.559876]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[5.034166,43.829885],[5.25,43.75]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.240529,44.136482],[12.5631945,44.0589565]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[1.514919,41.203989],[1.647899,41.310602]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.875397,42.766412],[3.004203,43.1836165]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-0.92493,38.781093],[-0.515639,38.988847]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[4.149669,43.715821],[4.360278,43.834875]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.752102,41.846176],[2.826608,41.987346]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.966727,42.275356],[2.866662,42.468926]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[9.156562,45.185899],[9.52751,45.158683]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-3.919521,38.004981],[-3.624424,38.037913]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[0.520955,40.811004],[0.700237,40.804813]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-0.376813,39.470371],[-0.278608,39.680031]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-6.5,36.5],[-6.172572,36.788002]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-0.138097,39.959582],[0.073556,40.231686]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-3.315366,38.184699],[-3.103507,38.342214]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-1.722773,38.918645],[-1.230685,38.746037]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[1.258617,41.114588],[1.514919,41.203989]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[5.94352,44.197042],[5.943974,44.385921]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[4.832867,43.773471],[5.034166,43.829885]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-2.694845,38.692191],[-2.353783,38.94902]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-5.079949,37.540932],[-4.5,37.5]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[8.297388,45.193171],[8.61234,45.193215]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.91577,43.912081],[13.016921,43.844902]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[5.393684,43.876571],[5.565915,43.850093]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[8.79735,45.122041],[9.156562,45.185899]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[11.470575,44.443622],[11.707535,44.353995]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[6.278222,44.545037],[6.496364,44.565627]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.910473,42.066067],[2.966727,42.275356]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[-5.82933,36.990065],[-5.922275,37.283163]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[9.698743,45.052419],[9.910786,44.927187]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[6.633951,44.896886],[6.723215,44.931266]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.515737,42.519925],[12.466942,42.411879]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[12.648528,43.546796],[13.396908,43.629616]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[0.813909,40.917425],[1.258617,41.114588]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[4.635555,43.811154],[4.630799,43.677616]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[3.420181,43.3945615],[3.692307,43.515715]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[1.5,41.5],[2.107509,41.548425]]
+  }
+},{
+  "type":"Feature",
+  "geometry":{
+    "type":"LineString",
+    "coordinates":[[2.946575,42.709811],[2.875397,42.766412]]
+  }
+}],
+"places":
+[{
+  "transcription":"GADES",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/256177#this",
+    "title":"Gadeira/Gades/Col. Augusta Gaditana",
+    "names":["Cadiz","Col. Augusta Gaditana","Gadeira","Gades","Urbs Iulia Gaditana","Cádiz"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-6.2925,36.5297]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"CARMONE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/256058#this",
+    "title":"Carmo",
+    "names":["Carmo","Carmona"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-5.6423,37.471]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"LAVMELLO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/383690#this",
+    "title":"Laumellum",
+    "names":["Laumellum","Lomello"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[8.7974,45.122]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"TICINO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/383798#this",
+    "title":"Ticinum",
+    "names":["Ticinum","Pavia"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[9.1566,45.1859]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"LAMBRVM",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/383685#this",
+    "title":"Lambrum",
+    "names":["Lambrum","near Lambrinia"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[9.5275,45.1587]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"PLACENTIA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/383741#this",
+    "title":"Placentia",
+    "names":["Placentia","Piacenza"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[9.6987,45.0524]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"FLORENTIA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/383649#this",
+    "title":"Florenti(ol)a",
+    "names":["Florentia","Florentiola","Fiorenzuola"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[9.9108,44.9272]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"PARMA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/383737#this",
+    "title":"Parma",
+    "names":["Parma","Parma"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[10.3325,44.8045]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"LEPIDO REGIO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/383755#this",
+    "title":"Regium Lepidum",
+    "names":["Reggio nell'Emilia","Regium Lepidum","Reggio Emilia"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[10.6307,44.6981]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"MVTINA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/383715#this",
+    "title":"Mutina",
+    "names":["Modena","Mutina","Modena"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[10.9252,44.6471]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"BONONIA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/393421#this",
+    "title":"Felsina/Bononia",
+    "names":["Bologna","Bononia","Felsina","Bologna"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[11.3493,44.4945]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"CLATERNO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/393405#this",
+    "title":"Claterna",
+    "names":["Claterna","Ozzano"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[11.4706,44.4436]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"OBVCLA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/256332#this",
+    "title":"Obulcula",
+    "names":["Obulcula","La Monclova (Fuentes de Andalucía)"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-5.3484,37.4622]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"FORO CORNELI",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/393424#this",
+    "title":"Forum Cornelii",
+    "names":["Forum Cornelii","Imola"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[11.7075,44.354]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"FAVENTIA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/393420#this",
+    "title":"Faventia",
+    "names":["Faventia","Faenza"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[11.8835,44.2862]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"FORO LIVI",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/393426#this",
+    "title":"Forum Livii",
+    "names":["Forum Livii","Forlì"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[12.0427,44.2213]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"CAESANA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/393397#this",
+    "title":"Caesena",
+    "names":["Caesena","Cesena"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[12.2405,44.1365]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"ARIMINO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/393379#this",
+    "title":"Ariminum",
+    "names":["Ariminum","Rimini"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[12.5632,44.059]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"PISAVRO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/413256#this",
+    "title":"Pisaurum",
+    "names":["Pisaurum","Pésaro"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[12.9158,43.9121]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"FANO FORTVNAE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/413129#this",
+    "title":"Fanum Fortunae",
+    "names":["Fanum Fortunae","Fano"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[13.0169,43.8449]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"FORO SEMPRONI",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/413149#this",
+    "title":"Forum Sempronii",
+    "names":["Forum Sempronii","near Fossombrone"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[12.8138,43.6918]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"AD CALE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/413058#this",
+    "title":"Cales",
+    "names":["Cales","near Cagli"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[12.6485,43.5468]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"HESIM",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/412989#this",
+    "title":"Ad Aesim",
+    "names":["Ad Aesim","Scheggia?"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[13.3969,43.6296]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"ASTIGI",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/255996#this",
+    "title":"Astigi/Col. Augusta Firma",
+    "names":["Astigi","Col. Augusta Firma","Écija"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-5.0799,37.5409]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"HELVILLV",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/413167#this",
+    "title":"Helvillum",
+    "names":["Helvillum","Fossato di Vico?"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[12.7597,43.2969]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"NVCERIA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/456102#this",
+    "title":"Nuceria",
+    "names":["Nuceria","near Terina?"]
+  }
+},{
+  "transcription":"MAEVANIA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/413200#this",
+    "title":"Mevania",
+    "names":["Mevania","Bevagna"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[12.6094,42.9349]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"AD MARTIS",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/413380#this",
+    "title":"Vicus Martis",
+    "names":["Vicus Martis","S. Maria in Pantano"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[12.5241,42.7756]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"NARNIA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/413225#this",
+    "title":"Nequinum/Narnia",
+    "names":["Narni","Narnia","Nequinum","Narni"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[12.5157,42.5199]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"OCRICLO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/413231#this",
+    "title":"Ocriculum",
+    "names":["Ocriculum","Otricoli"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[12.4669,42.4119]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"AD XX",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/412998#this",
+    "title":"Ad Vicesimum",
+    "names":["Ad Vicesimum","Madonna della Guardia","near Morlupo"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[12.4985,42.1472]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"ROMAM",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/423025#this",
+    "title":"Roma",
+    "names":["Rome","Roma/Rome"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[12.4862,41.8917]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"AD ARAS",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/257485#this",
+    "title":"Untitled",
+    "names":["NE Ad Aras","over R. Guadalmazán"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Polygon",
+          "coordinates":[[[-4,37],[-4,38],[-5,38],[-5,37],[-4,37]]]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"CORDVBA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/256128#this",
+    "title":"Corduba/Col. Patricia",
+    "names":["Col. Patricia","Corduba","Córdoba","Córdoba"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-4.7792,37.8847]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"AD X",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/255952#this",
+    "title":"Ad Decumum",
+    "names":["Ad Decumum","between Villafranca and Córdoba","right bank of R. Guadalquivir"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-4.7141,37.9106]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"AD LVCOS",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/265773#this",
+    "title":"Ad Lucos",
+    "names":["Ad Lucos","near Montoro"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-4.4036,38.0205]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"ROMA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/423025#this",
+    "title":"Roma",
+    "names":["Rome","Roma/Rome"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[12.4862,41.8917]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"VCIESE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/266051#this",
+    "title":"(S)Ucia",
+    "names":["Ouogia","Setia","Sitia","Stia","Sucia","Sutia","Ucia","Casa de la Elevadora","2 miles NE Marmolejo"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-4.1866,38.0743]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"AD NOVLAS",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/265777#this",
+    "title":"Ad Novlas",
+    "names":["Ad Novlas","Villanueva de la Reina"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-3.9195,38.005]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"CASTVLONE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/265855#this",
+    "title":"Castulo",
+    "names":["Caesarii Iuvenales","Castulo","Cortijos de S. Eufemia y de Yangues","4.4 miles S Linares"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-3.6244,38.0379]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"AD MORVM",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/265774#this",
+    "title":"Ad Morum",
+    "names":["Ad Morum","near Navas de S. Juan?"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-3.3154,38.1847]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"II SOLARIA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/265769#this",
+    "title":"Ad Duo Solaria",
+    "names":["Ad Duo Solaria","near Montizón?"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-3.1035,38.3422]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"MARIANA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/265965#this",
+    "title":"Mariana",
+    "names":["Mariana","Mairena","1 mile S Puebla del Príncipe"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-2.9275,38.5474]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"MENTESA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/265969#this",
+    "title":"Mentesa",
+    "names":["Mentesa","Villanueva de la Fuente"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-2.6948,38.6922]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"LIBISOSA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/265949#this",
+    "title":"Libisosa",
+    "names":["Colonia Forum Augustum","Libisosa","Lezuza"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-2.3538,38.949]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"PARIETINIS",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/265999#this",
+    "title":"Parietinae",
+    "names":["Parietinae","8.5 miles SW Albacete?"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-2.0084,38.9625]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"AD PORTVM",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/255955#this",
+    "title":"Ad Portum/Gaditanus Portus",
+    "names":["Ad Portum","Gaditanus Portus","Menestheos Limen","Puerto de S. María (contra TIR Emerita 24","107","130)"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Polygon",
+          "coordinates":[[[-6,36],[-6,37],[-7,37],[-7,36],[-6,36]]]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"SALTIGI",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/266025#this",
+    "title":"Saltigi",
+    "names":["Saltigi","Chinchilla"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-1.7228,38.9186]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"AD PALE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/265779#this",
+    "title":"Ad Palem?",
+    "names":["Ad Palem","Cerro de los Santos","NW Yecla"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-1.2307,38.746]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"AT TVRRES",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/265783#this",
+    "title":"Ad Turres?/Turres Saetab(...)?",
+    "names":["Ad Turres","Turres Saetab(...)","Fuente la Higuera"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-0.9249,38.7811]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"SAETABI",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/266018#this",
+    "title":"Saetabis",
+    "names":["Saetabis","Xátiva"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-0.5156,38.9888]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"SVCRONE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/266052#this",
+    "title":"Sucro",
+    "names":["Sucro","Algemesí?"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-0.4381,39.1502]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"VALENTIA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/266090#this",
+    "title":"Valentia",
+    "names":["Valentia","Valencia"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-0.3768,39.4704]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"SAGVNTO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/266021#this",
+    "title":"Saguntum/Arse",
+    "names":["Arse","Saguntum","Sagunto"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-0.2786,39.68]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"SEBELACI",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/266034#this",
+    "title":"Sebelaci",
+    "names":["Sebelaci","between R. Millárs (Mijares) and La Rambla de la Viuda?"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-0.1381,39.9596]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"HASTA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/256193#this",
+    "title":"(H)Asta/Col. Hasta Regia/Ligystine?",
+    "names":["Asta","Col. Hasta Regia","Hasta","Ligystine","Cortijo el Rosario","Mesas de Asta (Jérez de la Frontera)"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-6.1726,36.788]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"ILDVM",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/265920#this",
+    "title":"Ildum",
+    "names":["Ildum","Els Hostalots (Vilanova de Alcolea)"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[0.0736,40.2317]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"INTILIBI",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246439#this",
+    "title":"Indibilis",
+    "names":["Indibilis","Intibilis","Benicarló"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[0.4231,40.4187]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"DERTOSA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246369#this",
+    "title":"Dertosa/Hibera Iulia Ilercavonia",
+    "names":["Dertosa","Hibera Iulia Ilercavonia","Tortosa"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[0.521,40.811]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"TRIA CAPITA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246705#this",
+    "title":"Tria Capita",
+    "names":["Tria Capita","L’Ampolla"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[0.7002,40.8048]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"SVB SALTV",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246665#this",
+    "title":"Sub Saltu",
+    "names":["Sub Saltu","Coll de Balaguer"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[0.8139,40.9174]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"TARRACONE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246349#this",
+    "title":"Col. Tarraco",
+    "names":["Col. Iulia Urbs Triumphalis","Col. Tarraco","Tarragona"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[1.2586,41.1146]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"PALFVRIANA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246551#this",
+    "title":"Palfuriana",
+    "names":["Palfuriana","Sant Vincenc de Calders"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[1.5149,41.204]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"ANTISTIANA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246166#this",
+    "title":"Antistiana",
+    "names":["Antistiana","La Rápita"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[1.6479,41.3106]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"VGIA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/256501#this",
+    "title":"U(r)gia",
+    "names":["Caesaris Salutariensis","Castrum Iulium","Ugia","Urgia","Las Torres de Alocaz (Las Cabezas de S. Juan)"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-5.8293,36.9901]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"AD FINES",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246135#this",
+    "title":"(Ad) Fines",
+    "names":["Ad Fines","Fines","Martorell"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Polygon",
+          "coordinates":[[[2,41],[2,42],[1,42],[1,41],[2,41]]]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"ARRAGONE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246192#this",
+    "title":"Arrago(na)",
+    "names":["Arrago","Arragona","Sabadell"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[2.1075,41.5484]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"PRAETORIO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246576#this",
+    "title":"Praetorium?",
+    "names":["Praetorium","La Roca"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Polygon",
+          "coordinates":[[[3,41],[3,42],[2,42],[2,41],[3,41]]]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"SAETERRAS",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246652#this",
+    "title":"Seterrae",
+    "names":["Seterrae","Hostalric"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[2.6355,41.7465]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"AQVIS VOCONIS",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246174#this",
+    "title":"Aquae Voconiae",
+    "names":["Aquae Voconiae","2 miles W Caldes de Malavella"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[2.7521,41.8462]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"GERVNDA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246406#this",
+    "title":"Gerunda",
+    "names":["Gerunda","Girona","Girona"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[2.8266,41.9873]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"CINNIANA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246335#this",
+    "title":"Cinniana",
+    "names":["Cilniana","Cinniana","near Fellines (Viladesens)"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[2.9105,42.0661]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"IVNCARIA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246449#this",
+    "title":"Iuncaria",
+    "names":["Iuncaria","L’Aigueta (Figueres)"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[2.9667,42.2754]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"IN PYRENAEO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246139#this",
+    "title":"Ad Pyrenaeum/Summus Pyrenaeus",
+    "names":["Ad Pyrenaeum","Summus Pyrenaeus","Col de Perthus"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[2.8667,42.4689]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"RVSCINONE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246348#this",
+    "title":"Col. Ruscino",
+    "names":["Château Roussillon","Col. Ruscino","Château Roussillon FRA"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[2.9466,42.7098]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"ORIPPO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/256343#this",
+    "title":"Orippo",
+    "names":["Orippo","Torre de los Herberos? near Dos Hermanas"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-5.9223,37.2832]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"COMBVSTA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246351#this",
+    "title":"Combusta",
+    "names":["Combusta","near Rivesaltes FRA"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[2.8754,42.7664]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"NARBONE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/246347#this",
+    "title":"Col. Narbo Martius",
+    "names":["Col. Iulia Paterna Claudia","Col. Narbo Martius","Narbonne","Narbonne FRA"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[3.0042,43.1836]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"BAETERRA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/148056#this",
+    "title":"Col. Baeterrae",
+    "names":["Béziers","Col. Baeterrae","Col. Victrix Iulia Paterna","settlement and bridge at Béziers"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[3.2179,43.3417]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"CESSERONE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/147997#this",
+    "title":"Araura/Cessero",
+    "names":["Araura","Cessero","Saint-Thibéry","St-Thibéry"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[3.4202,43.3946]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"FORO DOMITI",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/148081#this",
+    "title":"Forum Domitii",
+    "names":["Forum Domitii","Montbazin","Montbazin"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[3.6923,43.5157]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"SEXTANTIONE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/148202#this",
+    "title":"Sextantio",
+    "names":["Substantion","Sextantio","near Castelnau-le-Lez"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[3.8964,43.6423]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"AMBRVSSVM",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/147990#this",
+    "title":"Ambrussum",
+    "names":["Ambrussum","Pont-Ambroix (Ambrussum)","Pont-Ambroix","near Villetelle"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[4.1497,43.7158]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"HISPALIM",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/256210#this",
+    "title":"Hispalis/Col. Romula",
+    "names":["Col. Romula","Hispalis","Sevilla/Seville"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[-5.9963,37.3827]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"NEMAVSO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/148142#this",
+    "title":"Nemausus",
+    "names":["Nemausus","Nîmes","Nîmes"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[4.3603,43.8349]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"VGERNO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/148223#this",
+    "title":"Ugernum",
+    "names":["Beaucaire","Ugernum","Beaucaire"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[4.6356,43.8112]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"ARELATA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/148217#this",
+    "title":"Theline/Col. Arelate/Constantina",
+    "names":["Arles","Col. Arelate","Col. Iulia Paterna Sextanorum Arelate","Constantina","Theline","Arles"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[4.6308,43.6776]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"ERNAGINO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/148074#this",
+    "title":"Ernaginum",
+    "names":["Ernaginum","St-Gabriel"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[4.6933,43.7675]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"CLANVM",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/148093#this",
+    "title":"Glanum",
+    "names":["Glanum","near St-Rémy de Provence"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[4.8329,43.7735]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"CABELLIONE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/148027#this",
+    "title":"Cabellio",
+    "names":["Cabellio","Cavaillon","Cavaillon"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[5.0342,43.8299]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"AD FINES",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/147983#this",
+    "title":"Ad Fines",
+    "names":["Ad Fines","Mariquan area","near Goult"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Polygon",
+          "coordinates":[[[5.5,43.5],[5.5,44],[5,44],[5,43.5],[5.5,43.5]]]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"APTA IVLIA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/147993#this",
+    "title":"Apta Iulia",
+    "names":["Apta Iulia","Apt"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[5.3937,43.8766]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"CATVIACIA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/148041#this",
+    "title":"Catuiacia",
+    "names":["Catuiacia","St-Sauveur? near Céreste"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[5.5659,43.8501]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"ALAVNIO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/157800#this",
+    "title":"Alaunium",
+    "names":["Alaunium","Pied d’Aulun","near Notre-Dame des Anges"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[5.8744,43.9459]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"SEGVSTERONE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/157925#this",
+    "title":"Segustero",
+    "names":["Segustero","Sisteron"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[5.9435,44.197]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"ALABONTE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/167628#this",
+    "title":"Alabonte",
+    "names":["Alabonte","Le Monêtier-Allemont"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[5.944,44.3859]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"VAPPINCO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/167954#this",
+    "title":"Vappincum",
+    "names":["Vappincum","Gap"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[6.0759,44.5599]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"CATVRIGOMAG",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/167701#this",
+    "title":"Caturigomagus",
+    "names":["Caturigomagus","Chorges"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[6.2782,44.545]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"EBVRODVNO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/167750#this",
+    "title":"Eburodunum",
+    "names":["Ebrudunum","Eburodunum","Embrun"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[6.4964,44.5656]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"RAMA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/167881#this",
+    "title":"Rama",
+    "names":["Rama","near La Roche-de-Rame"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[6.5786,44.7476]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"BRIGANTIO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/167691#this",
+    "title":"Brigantio",
+    "names":["Brigantio","Briançon"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[6.634,44.8969]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"SVMMAS ALPES",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/167743#this",
+    "title":"Druantium/*Alpis Cottia/Summae Alpes",
+    "names":["Alpis Cottia","Alpis Iulia","Druantium","Summae Alpes","settlement and pass at Montgenèvre"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[6.7232,44.9313]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"GAESAONE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/167778#this",
+    "title":"Gaesao/Tyrium",
+    "names":["Gaesao","Tyrium","Cesana ITL"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[6.7936,44.953]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"SEGVSIONE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/167919#this",
+    "title":"Segusio",
+    "names":["Segusini","Segusio","Susa","Susa ITL"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[7.0484,45.1383]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"OCELO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/383720#this",
+    "title":"Ocelum",
+    "names":["Ocelum","near Novaretto and Caprie"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[7.3449,45.1161]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"TAVRINIS",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/383580#this",
+    "title":"Augusta Taurinorum",
+    "names":["Augusta Taurinorum","Torino","Turin"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[7.6866,45.0702]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"QVADRATA",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/383753#this",
+    "title":"Quadrata",
+    "names":["Quadrata","Quarino Bianco di Verolengo"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[7.9694,45.1911]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"RIGOMAGO",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/383759#this",
+    "title":"Rigomagus",
+    "names":["Rigomagus","Trino Vercellese?"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[8.2974,45.1932]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"CVTTIAE",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/383630#this",
+    "title":"Cuttiae",
+    "names":["Cuttiae","Cozzo"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[8.6123,45.1932]
+        }
+      }]
+    }
+  }
+},{
+  "transcription":"Findspot: Vicarello",
+  "place":{
+    "source":"http://pleiades.stoa.org/places/413023#this",
+    "title":"Aquae Apollinares Novae",
+    "names":["Aquae Apollinares Novae","Vicarello"],
+    "geometry":{
+      "type":"FeatureCollection",
+      "features":[{
+        "type":"Feature",
+        "geometry":{
+          "type":"Point",
+          "coordinates":[12.2,42.169]
+        }
+      }]
+    }
+  }
+}]
+}

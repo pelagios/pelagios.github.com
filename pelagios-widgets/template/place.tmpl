@@ -1,16 +1,11 @@
 (function() {
   var template = Handlebars.template, templates = Handlebars.templates = Handlebars.templates || {};
-templates['place'] = template(function (Handlebars,depth0,helpers,partials,data) {
-  this.compilerInfo = [2,'>= 1.0.0-rc.3'];
-helpers = helpers || Handlebars.helpers; data = data || {};
-  var buffer = "", stack1, functionType="function", escapeExpression=this.escapeExpression;
-
-
-  buffer += "<div id=\""
-    + escapeExpression(((stack1 = ((stack1 = depth0.widgetContext),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
-    + "-pleiades\">    \r\n</div>    \r\n<div id=\""
-    + escapeExpression(((stack1 = ((stack1 = depth0.widgetContext),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
-    + "-sections\"></div>   \r\n\r\n";
-  return buffer;
-  });
+templates['place'] = template({"compiler":[5,">= 2.0.0"],"main":function(depth0,helpers,partials,data) {
+  var stack1, functionType="function", escapeExpression=this.escapeExpression;
+  return "<div id=\""
+    + escapeExpression(((stack1 = ((stack1 = (depth0 && depth0.widgetContext)),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + "-pleiades\">    \n</div>    \n<div id=\""
+    + escapeExpression(((stack1 = ((stack1 = (depth0 && depth0.widgetContext)),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + "-sections\"></div>   \n\n";
+},"useData":true});
 })();

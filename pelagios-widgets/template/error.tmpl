@@ -1,22 +1,13 @@
 (function() {
   var template = Handlebars.template, templates = Handlebars.templates = Handlebars.templates || {};
-templates['error'] = template(function (Handlebars,depth0,helpers,partials,data) {
-  this.compilerInfo = [2,'>= 1.0.0-rc.3'];
-helpers = helpers || Handlebars.helpers; data = data || {};
-  var buffer = "", stack1, stack2, functionType="function", escapeExpression=this.escapeExpression;
-
-
-  buffer += "<h1 id=\""
-    + escapeExpression(((stack1 = ((stack1 = depth0.widgetContext),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
-    + "-title\" class=\"pelagios-title\">";
-  if (stack2 = helpers.title) { stack2 = stack2.call(depth0, {hash:{},data:data}); }
-  else { stack2 = depth0.title; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; }
-  buffer += escapeExpression(stack2)
-    + "</h1> \r\n<p>";
-  if (stack2 = helpers.msg) { stack2 = stack2.call(depth0, {hash:{},data:data}); }
-  else { stack2 = depth0.msg; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; }
-  buffer += escapeExpression(stack2)
-    + "</p>  \r\n";
-  return buffer;
-  });
+templates['error'] = template({"compiler":[5,">= 2.0.0"],"main":function(depth0,helpers,partials,data) {
+  var stack1, helper, functionType="function", escapeExpression=this.escapeExpression;
+  return "<h1 id=\""
+    + escapeExpression(((stack1 = ((stack1 = (depth0 && depth0.widgetContext)),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + "-title\" class=\"pelagios-title\">"
+    + escapeExpression(((helper = helpers.title || (depth0 && depth0.title)),(typeof helper === functionType ? helper.call(depth0, {"name":"title","hash":{},"data":data}) : helper)))
+    + "</h1> \n<p>"
+    + escapeExpression(((helper = helpers.msg || (depth0 && depth0.msg)),(typeof helper === functionType ? helper.call(depth0, {"name":"msg","hash":{},"data":data}) : helper)))
+    + "</p>  \n";
+},"useData":true});
 })();

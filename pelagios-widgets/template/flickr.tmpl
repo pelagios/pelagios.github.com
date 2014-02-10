@@ -1,66 +1,46 @@
 (function() {
   var template = Handlebars.template, templates = Handlebars.templates = Handlebars.templates || {};
-templates['flickr'] = template(function (Handlebars,depth0,helpers,partials,data) {
-  this.compilerInfo = [2,'>= 1.0.0-rc.3'];
-helpers = helpers || Handlebars.helpers; data = data || {};
-  var buffer = "", stack1, stack2, functionType="function", escapeExpression=this.escapeExpression, self=this;
-
-function program1(depth0,data) {
-  
-  var buffer = "", stack1;
-  buffer += "\r\n<a href=\"http://www.flickr.com/photos/"
-    + escapeExpression(((stack1 = depth0.owner),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+templates['flickr'] = template({"1":function(depth0,helpers,partials,data) {
+  var stack1, functionType="function", escapeExpression=this.escapeExpression;
+  return "\n<a href=\"http://www.flickr.com/photos/"
+    + escapeExpression(((stack1 = (depth0 && depth0.owner)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
     + "/"
-    + escapeExpression(((stack1 = depth0.id),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
-    + "\" target=\"_blank\">\r\n<img src=\"http://farm"
-    + escapeExpression(((stack1 = depth0.farm),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + escapeExpression(((stack1 = (depth0 && depth0.id)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + "\" target=\"_blank\">\n<img src=\"http://farm"
+    + escapeExpression(((stack1 = (depth0 && depth0.farm)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
     + ".staticflickr.com/"
-    + escapeExpression(((stack1 = depth0.server),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + escapeExpression(((stack1 = (depth0 && depth0.server)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
     + "/"
-    + escapeExpression(((stack1 = depth0.id),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + escapeExpression(((stack1 = (depth0 && depth0.id)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
     + "_"
-    + escapeExpression(((stack1 = depth0.secret),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + escapeExpression(((stack1 = (depth0 && depth0.secret)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
     + "_t.jpg\" alt=\""
-    + escapeExpression(((stack1 = ((stack1 = depth0.pthis),stack1 == null || stack1 === false ? stack1 : stack1.title)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
-    + "\" />\r\n</a>\r\n";
-  return buffer;
-  }
-
-function program3(depth0,data) {
-  
-  var buffer = "", stack1;
-  buffer += "\r\n<p><a href=\"http://www.flickr.com/groups/pleiades-places/pool/tags/pleiades%3Adepicts%3D";
-  if (stack1 = helpers.pleiadesID) { stack1 = stack1.call(depth0, {hash:{},data:data}); }
-  else { stack1 = depth0.pleiadesID; stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1; }
-  buffer += escapeExpression(stack1)
+    + escapeExpression(((stack1 = ((stack1 = (depth0 && depth0.pthis)),stack1 == null || stack1 === false ? stack1 : stack1.title)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + "\" />\n</a>\n";
+},"3":function(depth0,helpers,partials,data) {
+  var stack1, helper, functionType="function", escapeExpression=this.escapeExpression;
+  return "\n<p><a href=\"http://www.flickr.com/groups/pleiades-places/pool/tags/pleiades%3Adepicts%3D"
+    + escapeExpression(((helper = helpers.pleiadesID || (depth0 && depth0.pleiadesID)),(typeof helper === functionType ? helper.call(depth0, {"name":"pleiadesID","hash":{},"data":data}) : helper)))
     + "/\" target=\"_blank\">View all "
-    + escapeExpression(((stack1 = ((stack1 = depth0.photo),stack1 == null || stack1 === false ? stack1 : stack1.length)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
-    + " photos on flickr</a></p>\r\n";
-  return buffer;
-  }
-
-function program5(depth0,data) {
-  
-  var buffer = "", stack1;
-  buffer += "\r\n<p><a href=\"http://www.flickr.com/photos/tags/pleiades%3Adepicts%3D";
-  if (stack1 = helpers.pleiadesID) { stack1 = stack1.call(depth0, {hash:{},data:data}); }
-  else { stack1 = depth0.pleiadesID; stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1; }
-  buffer += escapeExpression(stack1)
+    + escapeExpression(((stack1 = ((stack1 = (depth0 && depth0.photo)),stack1 == null || stack1 === false ? stack1 : stack1.length)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + " photos on flickr</a></p>\n";
+},"5":function(depth0,helpers,partials,data) {
+  var stack1, helper, functionType="function", escapeExpression=this.escapeExpression;
+  return "\n<p><a href=\"http://www.flickr.com/photos/tags/pleiades%3Adepicts%3D"
+    + escapeExpression(((helper = helpers.pleiadesID || (depth0 && depth0.pleiadesID)),(typeof helper === functionType ? helper.call(depth0, {"name":"pleiadesID","hash":{},"data":data}) : helper)))
     + "/\" target=\"_blank\">View all "
-    + escapeExpression(((stack1 = ((stack1 = depth0.photo),stack1 == null || stack1 === false ? stack1 : stack1.length)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
-    + " photos on flickr</a></p>\r\n";
-  return buffer;
-  }
-
-  stack1 = helpers.each.call(depth0, depth0.photo, {hash:{},inverse:self.noop,fn:self.program(1, program1, data),data:data});
+    + escapeExpression(((stack1 = ((stack1 = (depth0 && depth0.photo)),stack1 == null || stack1 === false ? stack1 : stack1.length)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + " photos on flickr</a></p>\n";
+},"compiler":[5,">= 2.0.0"],"main":function(depth0,helpers,partials,data) {
+  var stack1, buffer = "";
+  stack1 = helpers.each.call(depth0, (depth0 && depth0.photo), {"name":"each","hash":{},"fn":this.program(1, data),"inverse":this.noop,"data":data});
   if(stack1 || stack1 === 0) { buffer += stack1; }
-  buffer += "\r\n";
-  stack2 = helpers['if'].call(depth0, ((stack1 = depth0.widgetContext),stack1 == null || stack1 === false ? stack1 : stack1.pleiadesFlickrGroupOnly), {hash:{},inverse:self.noop,fn:self.program(3, program3, data),data:data});
-  if(stack2 || stack2 === 0) { buffer += stack2; }
-  buffer += "\r\n";
-  stack2 = helpers.unless.call(depth0, ((stack1 = depth0.widgetContext),stack1 == null || stack1 === false ? stack1 : stack1.pleiadesFlickrGroupOnly), {hash:{},inverse:self.noop,fn:self.program(5, program5, data),data:data});
-  if(stack2 || stack2 === 0) { buffer += stack2; }
-  buffer += "\r\n<p>The flickr photos shown here are those which have been given a <a href=\"http://www.flickr.com/groups/pleiades-places/discuss/72157628435317307/\">Pleiades machine tag specifying this place.</a></p>\r\n";
-  return buffer;
-  });
+  buffer += "\n";
+  stack1 = helpers['if'].call(depth0, ((stack1 = (depth0 && depth0.widgetContext)),stack1 == null || stack1 === false ? stack1 : stack1.pleiadesFlickrGroupOnly), {"name":"if","hash":{},"fn":this.program(3, data),"inverse":this.noop,"data":data});
+  if(stack1 || stack1 === 0) { buffer += stack1; }
+  buffer += "\n";
+  stack1 = helpers.unless.call(depth0, ((stack1 = (depth0 && depth0.widgetContext)),stack1 == null || stack1 === false ? stack1 : stack1.pleiadesFlickrGroupOnly), {"name":"unless","hash":{},"fn":this.program(5, data),"inverse":this.noop,"data":data});
+  if(stack1 || stack1 === 0) { buffer += stack1; }
+  return buffer + "\n<p>The flickr photos shown here are those which have been given a <a href=\"http://www.flickr.com/groups/pleiades-places/discuss/72157628435317307/\">Pleiades machine tag specifying this place.</a></p>\n";
+},"useData":true});
 })();

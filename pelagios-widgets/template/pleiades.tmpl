@@ -1,61 +1,40 @@
 (function() {
   var template = Handlebars.template, templates = Handlebars.templates = Handlebars.templates || {};
-templates['pleiades'] = template(function (Handlebars,depth0,helpers,partials,data) {
-  this.compilerInfo = [2,'>= 1.0.0-rc.3'];
-helpers = helpers || Handlebars.helpers; data = data || {};
-  var buffer = "", stack1, stack2, functionType="function", escapeExpression=this.escapeExpression, self=this;
-
-function program1(depth0,data) {
-  
-  var buffer = "", stack1;
-  buffer += "\r\n    <p>Some alternative names: ";
-  if (stack1 = helpers.altNames) { stack1 = stack1.call(depth0, {hash:{},data:data}); }
-  else { stack1 = depth0.altNames; stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1; }
-  buffer += escapeExpression(stack1)
-    + " (the results below are for all alternative names)</p>  \r\n    ";
-  return buffer;
-  }
-
-function program3(depth0,data) {
-  
-  var buffer = "", stack1;
-  buffer += " \r\n    <div id=\""
-    + escapeExpression(((stack1 = ((stack1 = depth0.widgetContext),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
-    + "-map\">    \r\n        <div id=\""
-    + escapeExpression(((stack1 = ((stack1 = depth0.widgetContext),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+templates['pleiades'] = template({"1":function(depth0,helpers,partials,data) {
+  var helper, functionType="function", escapeExpression=this.escapeExpression;
+  return "\n    <p>Some alternative names: "
+    + escapeExpression(((helper = helpers.altNames || (depth0 && depth0.altNames)),(typeof helper === functionType ? helper.call(depth0, {"name":"altNames","hash":{},"data":data}) : helper)))
+    + " (the results below are for all alternative names)</p>  \n    ";
+},"3":function(depth0,helpers,partials,data) {
+  var stack1, functionType="function", escapeExpression=this.escapeExpression;
+  return " \n    <div id=\""
+    + escapeExpression(((stack1 = ((stack1 = (depth0 && depth0.widgetContext)),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + "-map\">    \n        <div id=\""
+    + escapeExpression(((stack1 = ((stack1 = (depth0 && depth0.widgetContext)),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
     + "-map_canvas\" style=\"width:"
-    + escapeExpression(((stack1 = ((stack1 = depth0.widgetContext),stack1 == null || stack1 === false ? stack1 : stack1.mapWidth)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
-    + "; height:200px\"></div>\r\n    </div>   \r\n    ";
-  return buffer;
-  }
-
-  buffer += " <h1 id=\""
-    + escapeExpression(((stack1 = ((stack1 = depth0.widgetContext),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
-    + "-title\" class=\"pelagios-title\">";
-  if (stack2 = helpers.title) { stack2 = stack2.call(depth0, {hash:{},data:data}); }
-  else { stack2 = depth0.title; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; }
-  buffer += escapeExpression(stack2)
-    + "</h1>    \r\n<div class=\"section-content\" id=\""
-    + escapeExpression(((stack1 = ((stack1 = depth0.widgetContext),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
-    + "-pleiades\">\r\n    <div id=\""
-    + escapeExpression(((stack1 = ((stack1 = depth0.widgetContext),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
-    + "-description\"><p>";
-  if (stack2 = helpers.description) { stack2 = stack2.call(depth0, {hash:{},data:data}); }
-  else { stack2 = depth0.description; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; }
-  buffer += escapeExpression(stack2)
-    + "</p>\r\n    ";
-  stack2 = helpers['if'].call(depth0, depth0.altNames, {hash:{},inverse:self.noop,fn:self.program(1, program1, data),data:data});
-  if(stack2 || stack2 === 0) { buffer += stack2; }
-  buffer += "\r\n    ";
-  stack2 = helpers['if'].call(depth0, ((stack1 = depth0.widgetContext),stack1 == null || stack1 === false ? stack1 : stack1.displayMap), {hash:{},inverse:self.noop,fn:self.program(3, program3, data),data:data});
-  if(stack2 || stack2 === 0) { buffer += stack2; }
-  buffer += "\r\n    <p><img src=\""
-    + escapeExpression(((stack1 = ((stack1 = depth0.widgetContext),stack1 == null || stack1 === false ? stack1 : stack1.baseURL)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
-    + "images/icons/pleiades.png\"  class=\"pleiades-icon\" />\r\n    <a href=\"http://pleiades.stoa.org/places/";
-  if (stack2 = helpers.pleiadesID) { stack2 = stack2.call(depth0, {hash:{},data:data}); }
-  else { stack2 = depth0.pleiadesID; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; }
-  buffer += escapeExpression(stack2)
-    + "\" target=\"_blank\">Entry in the Pleiades Gazetteer</a></p>    \r\n</div>";
-  return buffer;
-  });
+    + escapeExpression(((stack1 = ((stack1 = (depth0 && depth0.widgetContext)),stack1 == null || stack1 === false ? stack1 : stack1.mapWidth)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + "; height:200px\"></div>\n    </div>   \n    ";
+},"compiler":[5,">= 2.0.0"],"main":function(depth0,helpers,partials,data) {
+  var stack1, helper, functionType="function", escapeExpression=this.escapeExpression, buffer = " <h1 id=\""
+    + escapeExpression(((stack1 = ((stack1 = (depth0 && depth0.widgetContext)),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + "-title\" class=\"pelagios-title\">"
+    + escapeExpression(((helper = helpers.title || (depth0 && depth0.title)),(typeof helper === functionType ? helper.call(depth0, {"name":"title","hash":{},"data":data}) : helper)))
+    + "</h1>    \n<div class=\"section-content\" id=\""
+    + escapeExpression(((stack1 = ((stack1 = (depth0 && depth0.widgetContext)),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + "-pleiades\">\n    <div id=\""
+    + escapeExpression(((stack1 = ((stack1 = (depth0 && depth0.widgetContext)),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + "-description\"><p>"
+    + escapeExpression(((helper = helpers.description || (depth0 && depth0.description)),(typeof helper === functionType ? helper.call(depth0, {"name":"description","hash":{},"data":data}) : helper)))
+    + "</p>\n    ";
+  stack1 = helpers['if'].call(depth0, (depth0 && depth0.altNames), {"name":"if","hash":{},"fn":this.program(1, data),"inverse":this.noop,"data":data});
+  if(stack1 || stack1 === 0) { buffer += stack1; }
+  buffer += "\n    ";
+  stack1 = helpers['if'].call(depth0, ((stack1 = (depth0 && depth0.widgetContext)),stack1 == null || stack1 === false ? stack1 : stack1.displayMap), {"name":"if","hash":{},"fn":this.program(3, data),"inverse":this.noop,"data":data});
+  if(stack1 || stack1 === 0) { buffer += stack1; }
+  return buffer + "\n    <p><img src=\""
+    + escapeExpression(((stack1 = ((stack1 = (depth0 && depth0.widgetContext)),stack1 == null || stack1 === false ? stack1 : stack1.baseURL)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + "images/icons/pleiades.png\"  class=\"pleiades-icon\" />\n    <a href=\"http://pleiades.stoa.org/places/"
+    + escapeExpression(((helper = helpers.pleiadesID || (depth0 && depth0.pleiadesID)),(typeof helper === functionType ? helper.call(depth0, {"name":"pleiadesID","hash":{},"data":data}) : helper)))
+    + "\" target=\"_blank\">Entry in the Pleiades Gazetteer</a></p>    \n</div>";
+},"useData":true});
 })();

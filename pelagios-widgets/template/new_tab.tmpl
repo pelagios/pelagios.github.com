@@ -1,16 +1,11 @@
 (function() {
   var template = Handlebars.template, templates = Handlebars.templates = Handlebars.templates || {};
-templates['new_tab'] = template(function (Handlebars,depth0,helpers,partials,data) {
-  this.compilerInfo = [2,'>= 1.0.0-rc.3'];
-helpers = helpers || Handlebars.helpers; data = data || {};
-  var buffer = "", stack1, functionType="function", escapeExpression=this.escapeExpression;
-
-
-  buffer += "<!DOCTYPE html>\r\n<html>\r\n  <head>\r\n\r\n  </head>\r\n  <body >\r\n\r\n        <div id=\""
-    + escapeExpression(((stack1 = ((stack1 = depth0.widgetContext),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+templates['new_tab'] = template({"compiler":[5,">= 2.0.0"],"main":function(depth0,helpers,partials,data) {
+  var stack1, functionType="function", escapeExpression=this.escapeExpression;
+  return "<!DOCTYPE html>\n<html>\n  <head>\n\n  </head>\n  <body >\n\n        <div id=\""
+    + escapeExpression(((stack1 = ((stack1 = (depth0 && depth0.widgetContext)),stack1 == null || stack1 === false ? stack1 : stack1.widgetID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
     + "\" data-pleiades_id=\""
-    + escapeExpression(((stack1 = ((stack1 = depth0.widgetContext),stack1 == null || stack1 === false ? stack1 : stack1.pleiadesID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
-    + "\" \r\n        data-icon=\"false\"\r\n        class=\"pelagios pelagios-place\"></div>\r\n</body>\r\n</html>";
-  return buffer;
-  });
+    + escapeExpression(((stack1 = ((stack1 = (depth0 && depth0.widgetContext)),stack1 == null || stack1 === false ? stack1 : stack1.pleiadesID)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + "\" \n        data-icon=\"false\"\n        class=\"pelagios pelagios-place\"></div>\n</body>\n</html>";
+},"useData":true});
 })();
